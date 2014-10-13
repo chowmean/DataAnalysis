@@ -6,19 +6,20 @@ Twitter data analysis, location plotting, suggestion extraction and Time line ge
 
 It requires few minutes to configure.All details are mentioned here.
 For any assistance drop a mail i would love to help. :)
-Pre-requisite.:
-1. Linux
-2. Python 2.7 or above
-3. Libraries : sudo apt-get install python-requests
-sudo apt-get install python-oauth2
-sudo apt-get install python-textblob
-sudo apt-get install python-geopy
+Pre-requisites.
+1. Linux.
+2. Python 2.7 or above.
+3. Libraries : sudo apt-get install python-requests.
+sudo apt-get install python-oauth2.
+sudo apt-get install python-textblob.
+sudo apt-get install python-geopy.
 There may be few more libraries requireed according to your base system config.
 4. An apache server.
-5. Active net connections for geopy and maps
-You may have to change just few lines to run these code in your windows. Server files will work perfectly in windows server.
-Instructions to use:
-#####################
+5. Active net connections for geopy and maps.
+You may have to change just few lines to run these code in your windows. Server files will work perfectly in windows. server.
+
+##Instructions to use:
+
 1. For getting tweets run the searching.py file in data exraction folder/tweets by replacing the costumer keys of your twitter api keys.
 2. Change the file to save the tweets in different folder it is located in last 2 3 lines.
 3. Run the python programs using in terminal to get the tweets.
@@ -29,9 +30,9 @@ Running python program in terminal
 >> python filename.py
 
 
-## Author:chowmean
-## Mail: gaurav.dev.iiitm@gmail.com
-## Contributors: Gaurav Yadav(chowmean), Abhishek Kumar Yadav(manofsteel), Mohammad Afjal.
-## Twitter and rss data analysis.
-## Libraires used : Textblob, nltk, collections, re, json, oauth2, requests, etc.
-## github: https://github.com/chowmean/DataAnalysis.git can fork from here.
+@ Author:chowmean
+@ Mail: gaurav.dev.iiitm@gmail.com
+@ Contributors: Gaurav Yadav(chowmean), Abhishek Kumar Yadav(manofsteel), Mohammad Afjal.
+@ Twitter and rss data analysis.
+@ Libraires used : Textblob, nltk, collections, re, json, oauth2, requests, etc.
+@ github: https://github.com/chowmean/DataAnalysis.git can fork from here.
