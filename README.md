@@ -30,9 +30,9 @@ Running python program in terminal
 >> python filename.py
 
 
-@ Author:chowmean
-@ Mail: gaurav.dev.iiitm@gmail.com
-@ Contributors: Gaurav Yadav(chowmean), Abhishek Kumar Yadav(manofsteel), Mohammad Afjal.
-@ Twitter and rss data analysis.
-@ Libraires used : Textblob, nltk, collections, re, json, oauth2, requests, etc.
-@ github: https://github.com/chowmean/DataAnalysis.git can fork from here.
+# Author:chowmean
+# Mail: gaurav.dev.iiitm@gmail.com
+# Contributors: Gaurav Yadav(chowmean), Abhishek Kumar Yadav(manofsteel), Mohammad Afjal.
+# Twitter and rss data analysis.
+# Libraires used : Textblob, nltk, collections, re, json, oauth2, requests, etc.
+# github: https://github.com/chowmean/DataAnalysis.git can fork from here.
