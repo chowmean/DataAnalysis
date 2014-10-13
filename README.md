@@ -7,16 +7,16 @@ Twitter data analysis, location plotting, suggestion extraction and Time line ge
 It requires few minutes to configure.All details are mentioned here.
 For any assistance drop a mail i would love to help. :)
 Pre-requisites.
-1. Linux.
-2. Python 2.7 or above.
-3. Libraries : sudo apt-get install python-requests.
-sudo apt-get install python-oauth2.
-sudo apt-get install python-textblob.
-sudo apt-get install python-geopy.
-There may be few more libraries requireed according to your base system config.
-4. An apache server.
-5. Active net connections for geopy and maps.
-You may have to change just few lines to run these code in your windows. Server files will work perfectly in windows. server.
+1. Linux.<br>
+2. Python 2.7 or above.<br>
+3. Libraries : sudo apt-get install python-requests.<br>
+sudo apt-get install python-oauth2.<br>
+sudo apt-get install python-textblob.<br>
+sudo apt-get install python-geopy.<br>
+There may be few more libraries requireed according to your base system config.<br>
+4. An apache server.<br>
+5. Active net connections for geopy and maps.<br>
+You may have to change just few lines to run these code in your windows. Server files will work perfectly in windows. server.<br>
 
 ##Instructions to use:
 
@@ -30,9 +30,9 @@ Running python program in terminal
 >> python filename.py
 
 
-// Author:chowmean
-// Mail: gaurav.dev.iiitm@gmail.com
-// Contributors: Gaurav Yadav(chowmean), Abhishek Kumar Yadav(manofsteel), Mohammad Afjal.
-// Twitter and rss data analysis.
-// Libraires used : Textblob, nltk, collections, re, json, oauth2, requests, etc.
-// github: https://github.com/chowmean/DataAnalysis.git can fork from here.
+_Author:chowmean_ <br>
+_Mail: gaurav.dev.iiitm@gmail.com_<br>
+_Contributors: Gaurav Yadav(chowmean), Abhishek Kumar Yadav(manofsteel), Mohammad Afjal._<br>
+_Twitter and rss data analysis._<br>
+_Libraires used : Textblob, nltk, collections, re, json, oauth2, requests, etc._<br>
+_github: https://github.com/chowmean/DataAnalysis.git can fork from here._<br>
