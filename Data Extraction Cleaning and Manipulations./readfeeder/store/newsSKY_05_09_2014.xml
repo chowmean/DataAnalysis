@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 5 Sep 2014 13:06:29 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>US Forming 'Core Coalition' To Combat IS</title>
+      <link>http://news.sky.com/story/1330711</link>
+      <description>Top American officials are pressing a coalition of 10 nations to summon the willpower to go after Islamic State militants in Iraq.</description>
+      <pubDate>Fri, 5 Sep 2014 12:39:56 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330711</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/7/14/323241/default/v1/fighters-in-two-rows-of-cars-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Fighters parade through Raqqa in ISIS-controlled Syria</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/7/14/323241/default/v1/fighters-in-two-rows-of-cars-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/7/14/323241/default/v1/fighters-in-two-rows-of-cars-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Hostage David Haines' Family Under Police Guard</title>
+      <link>http://news.sky.com/story/1330697</link>
+      <description>Police in Croatia put David Haines' wife and four-year-old daughter under 24-hour protection after his life is threatened by IS.</description>
+      <pubDate>Fri, 5 Sep 2014 12:28:29 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330697</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/5/333813/default/v1/cegrab-20140905-085936-159-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">David Haines</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/5/333813/default/v1/cegrab-20140905-085936-159-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/5/333813/default/v1/cegrab-20140905-085936-159-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>IS Leader's Top Aide 'Killed In Iraq Airstrike'</title>
+      <link>http://news.sky.com/story/1330558</link>
+      <description>Abu Hajar al Suri reportedly died along with two other senior members of the militant group in an airstrike in Iraq.</description>
+      <pubDate>Fri, 5 Sep 2014 09:33:25 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330558</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/7/5/321288/default/v1/cegrab-20140705-160257-159-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">ISIS leader Abu Bakr al Baghdadi filmed in Mosul</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/7/5/321288/default/v1/cegrab-20140705-160257-159-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/7/5/321288/default/v1/cegrab-20140705-160257-159-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ireland: Bodies Of Two Children Found In House</title>
+      <link>http://news.sky.com/story/1330417</link>
+      <description>Irish police investigating the deaths say the body of a man in his 20s is also found about nine miles away in County Cork.</description>
+      <pubDate>Fri, 5 Sep 2014 09:11:55 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330417</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/4/333731/default/v1/10083622-1-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Charleville deaths - Cork</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/4/333731/default/v1/10083622-1-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/4/333731/default/v1/10083622-1-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ukraine: Nato To Form Rapid-Response Force</title>
+      <link>http://news.sky.com/story/1330777</link>
+      <description>Nato will create a "Spearhead" rapid-response force in response to Russian aggression in Ukraine, it has been announced.</description>
+      <pubDate>Fri, 5 Sep 2014 13:06:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330777</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/5/333908/default/v1/rtr45212-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">U.S. President Obama shakes hands with U.S. Secretary of Defense Hagel during the NATO Summit Leaders? Meeting: Future NATO at the Celtic Manor Resort in Newport</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/5/333908/default/v1/rtr45212-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/5/333908/default/v1/rtr45212-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ukrainian City Braced As Shelling Intensifies</title>
+      <link>http://news.sky.com/story/1330334</link>
+      <description>Sky's Katie Stallard is in Mariupol where the city is preparing for an attack and civilians are anxious about their families.</description>
+      <pubDate>Thu, 4 Sep 2014 20:42:02 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330334</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/4/333726/default/v2/sobbing-man-close-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A man sobs as he sits by the side of the road near Mariupol</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/4/333726/default/v2/sobbing-man-close-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/4/333726/default/v2/sobbing-man-close-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ebola Survivors' Blood Could Be Used In Fight</title>
+      <link>http://news.sky.com/story/1330603</link>
+      <description>Experts study whether antibodies from survivors' blood could be used, as a US doctor infected with ebola is en route to Nebraska.</description>
+      <pubDate>Fri, 5 Sep 2014 10:41:33 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330603</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/5/333817/default/v1/blood-generic-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Blood sample</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/5/333817/default/v1/blood-generic-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/5/333817/default/v1/blood-generic-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Smart Chopsticks Can Detect Unsafe Food</title>
+      <link>http://news.sky.com/story/1330659</link>
+      <description>Chinese search engine giant Baidu unveils a prototype pair of chopsticks that can detect whether food is dangerous to eat.</description>
+      <pubDate>Fri, 5 Sep 2014 12:50:26 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330659</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/5/333878/default/v3/cegrab-20140905-110126-313-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Smart chopsticks that can tell if food is unsafe to eat unveiled</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/5/333878/default/v3/cegrab-20140905-110126-313-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/5/333878/default/v3/cegrab-20140905-110126-313-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Fans Mourn After Death Of Argentine Rock Star</title>
+      <link>http://news.sky.com/story/1330615</link>
+      <description>One of Latin America's most influential musicians has died four years after a stroke left him in a coma.</description>
+      <pubDate>Fri, 5 Sep 2014 10:19:16 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330615</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/5/333830/default/v0/rtr44zfc-2-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A woman writes a phrase on a picture of singer Cerati fixed on a wall in front of the clinic where Cerati died today in Buenos Aires</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/5/333830/default/v0/rtr44zfc-2-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/5/333830/default/v0/rtr44zfc-2-70x50.jpg"/>
+    </item>
+    <item>
+      <title>'Dreadnought' Dinosaur Feared Nothing</title>
+      <link>http://news.sky.com/story/1330466</link>
+      <description>Weighing more than a herd of elephants, this giant animal was impervious to attack, experts say.</description>
+      <pubDate>Fri, 5 Sep 2014 09:44:24 +0100</pubDate>
+      <guid>http://news.sky.com/story/1330466</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/5/333751/default/v1/10083029-1-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Giant Dinosaur Dreadnoughtus Schrani</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/5/333751/default/v1/10083029-1-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/5/333751/default/v1/10083029-1-1-70x50.jpg"/>
+    </item>
+  </channel>
+</rss>

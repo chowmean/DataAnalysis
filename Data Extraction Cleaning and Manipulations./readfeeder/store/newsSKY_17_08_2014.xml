@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Aug 2014 07:17:06 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>US Launches Airstrikes To Help Retake Iraq Dam</title>
+      <link>http://news.sky.com/story/1320004</link>
+      <description>US fighter jets and drones have been involved in an offensive to claw back Iraq's largest dam from Islamic State fighters.</description>
+      <pubDate>Sun, 17 Aug 2014 05:57:30 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320004</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329933/default/v2/pershmerga-forces-crawford-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Kurdish Peshmerga forces in Iraq</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329933/default/v2/pershmerga-forces-crawford-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329933/default/v2/pershmerga-forces-crawford-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Tear Gas Fired At Missouri Curfew Protesters</title>
+      <link>http://news.sky.com/story/1320034</link>
+      <description>Police have fired tear gas at protesters defying a curfew imposed in a suburb where a black teenager was shot dead by an officer.</description>
+      <pubDate>Sun, 17 Aug 2014 07:02:34 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320034</guid>
+    </item>
+    <item>
+      <title>Kiev And Moscow Agree On Ukraine Aid Convoy</title>
+      <link>http://news.sky.com/story/1319906</link>
+      <description>Ukraine had been concerned the 280 trucks could be a 'Trojan horse', allowing Russia to set up a base in rebel-held territory.</description>
+      <pubDate>Sat, 16 Aug 2014 20:01:48 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319906</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/16/329912/default/v1/trucks-2-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">RUSSIA-UKRAINE-CRISIS</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/16/329912/default/v1/trucks-2-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/16/329912/default/v1/trucks-2-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Prisoners Film Tunnel Jail Break On Phone</title>
+      <link>http://news.sky.com/story/1320014</link>
+      <description>Police say the guard on duty had not bothered to inspect the cell for about two months before the inmates' brazen escape.</description>
+      <pubDate>Sun, 17 Aug 2014 06:03:17 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320014</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329937/default/v1/brazil-jail-break-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Escaped prisoners</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329937/default/v1/brazil-jail-break-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329937/default/v1/brazil-jail-break-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>On Target: Tanks Battle It Out In Biathlon</title>
+      <link>http://news.sky.com/story/1319834</link>
+      <description>Two Russian crews finish in the top spots as Russia stages a tank biathlon world championship involving 12 nations.</description>
+      <pubDate>Sat, 16 Aug 2014 17:01:07 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319834</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/16/329878/default/v2/rtr42moe-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Tanks competing in Biathlon World Championship in Russia</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/16/329878/default/v2/rtr42moe-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/16/329878/default/v2/rtr42moe-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>South Koreans Flock To See Pope Francis Mass</title>
+      <link>http://news.sky.com/story/1319552</link>
+      <description>More than 30,000 police are deployed as crowds flock to see Francis become the first pope for 25 years to hold a mass in Seoul.</description>
+      <pubDate>Sat, 16 Aug 2014 04:12:04 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319552</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/16/329806/default/v1/closish-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Catholic worshippers greet Pope Francis as he arrives in central Seoul</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/16/329806/default/v1/closish-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/16/329806/default/v1/closish-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Yazidis Return To Mountains On Rescue Mission</title>
+      <link>http://news.sky.com/story/1319536</link>
+      <description>Refugees who escaped Mount Sinjar are trekking back to the area to find family members they had to leave behind.</description>
+      <pubDate>Sat, 16 Aug 2014 06:51:36 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319536</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329790/default/v1/yazidis-on-donkeys-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Two Yazidis head towards the Mount Sinjar</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329790/default/v1/yazidis-on-donkeys-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329790/default/v1/yazidis-on-donkeys-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ebola Epidemic Is Like 'War Time' Says MSF</title>
+      <link>http://news.sky.com/story/1319044</link>
+      <description>A medical charity pleads for the international community to unite to combat the outbreak as the death tolls climbs above 1,100.</description>
+      <pubDate>Fri, 15 Aug 2014 19:08:05 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319044</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329655/default/v1/453614556-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Liberia Battles Spreading Ebola Epidemic</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329655/default/v1/453614556-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329655/default/v1/453614556-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Deputy Sheriff Shoots 'Intruder' Daughter</title>
+      <link>http://news.sky.com/story/1319472</link>
+      <description>The officer is said to have opened fire after the alarm went off at 3.30am and he spotted a shadowy figure in the garage.</description>
+      <pubDate>Fri, 15 Aug 2014 23:06:10 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319472</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329780/default/v1/rtr3g3m0-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">150814 US Ambulance GENERIC</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329780/default/v1/rtr3g3m0-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329780/default/v1/rtr3g3m0-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Boko Haram Islamists Kidnap Boys From Village</title>
+      <link>http://news.sky.com/story/1319228</link>
+      <description>Nearly 100 boys and men are loaded into trucks as militants burn down houses, kill elders and chant "Allah Akbar", say witnesses.</description>
+      <pubDate>Fri, 15 Aug 2014 14:34:23 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319228</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329683/default/v1/150814-doron-baga-nigeria-map-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A map showing the location of Doron Baga, Nigeria</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329683/default/v1/150814-doron-baga-nigeria-map-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329683/default/v1/150814-doron-baga-nigeria-map-1-70x50.jpg"/>
+    </item>
+  </channel>
+</rss>

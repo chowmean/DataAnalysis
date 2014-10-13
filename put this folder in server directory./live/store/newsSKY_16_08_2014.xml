@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 16 Aug 2014 06:34:28 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Islamists 'Massacre' 80 Yazidis In Northern Iraq</title>
+      <link>http://news.sky.com/story/1319531</link>
+      <description>Islamic State fighters shot dead the inhabitants of a village who had refused to convert, several sources claim.</description>
+      <pubDate>Sat, 16 Aug 2014 05:56:54 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319531</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329793/default/v2/yazidis-with-banner-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Displaced people from the minority Yazidi sect demonstrate</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329793/default/v2/yazidis-with-banner-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329793/default/v2/yazidis-with-banner-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Yazidis Return To Mountains On Rescue Mission</title>
+      <link>http://news.sky.com/story/1319536</link>
+      <description>Refugees who escaped Mount Sinjar are trekking back to the area to find family members they had to leave behind.</description>
+      <pubDate>Sat, 16 Aug 2014 01:49:30 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319536</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329790/default/v1/yazidis-on-donkeys-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Two Yazidis head towards the Mount Sinjar</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329790/default/v1/yazidis-on-donkeys-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329790/default/v1/yazidis-on-donkeys-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>South Koreans Flock To See Pope Francis Mass</title>
+      <link>http://news.sky.com/story/1319552</link>
+      <description>More than 30,000 police are deployed as crowds flock to see Francis become the first pope for 25 years to hold a mass in Seoul.</description>
+      <pubDate>Sat, 16 Aug 2014 04:12:04 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319552</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/16/329806/default/v1/closish-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Catholic worshippers greet Pope Francis as he arrives in central Seoul</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/16/329806/default/v1/closish-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/16/329806/default/v1/closish-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ukraine 'Destroys Russian Armoured Convoy'</title>
+      <link>http://news.sky.com/story/1319354</link>
+      <description>Moscow denies sending armoured vehicles into Ukraine and the US says it is trying to confirm Kiev's claims about the "invasion".</description>
+      <pubDate>Sat, 16 Aug 2014 02:21:26 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319354</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329781/default/v1/armoured-vehicles-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Russian military personnel ride atop APCs outside Kamensk-Shakhtinsky</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329781/default/v1/armoured-vehicles-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329781/default/v1/armoured-vehicles-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>RAF Tornados Refuel In Ultimate Pit Stop</title>
+      <link>http://news.sky.com/story/1319332</link>
+      <description>The Tornados have to refuel mid-air if they are to deliver humanitarian aid to the displaced people in the Sinjar mountains.</description>
+      <pubDate>Fri, 15 Aug 2014 16:23:53 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319332</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329712/default/v1/raf-tornado1-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Tornados being refuelled</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329712/default/v1/raf-tornado1-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329712/default/v1/raf-tornado1-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Missouri Teen 'Robbed Shop' Before He Was Shot</title>
+      <link>http://news.sky.com/story/1319303</link>
+      <description>The police officer who shot Michael Brown stopped him for jaywalking, unaware he was a suspect in a robbery minutes beforehand.</description>
+      <pubDate>Fri, 15 Aug 2014 21:35:24 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319303</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329771/default/v1/archcompo-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Composite image</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329771/default/v1/archcompo-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329771/default/v1/archcompo-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ebola Epidemic Is Like 'War Time' Says MSF</title>
+      <link>http://news.sky.com/story/1319044</link>
+      <description>A medical charity pleads for the international community to unite to combat the outbreak as the death tolls climbs above 1,100.</description>
+      <pubDate>Fri, 15 Aug 2014 19:08:05 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319044</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329655/default/v1/453614556-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Liberia Battles Spreading Ebola Epidemic</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329655/default/v1/453614556-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329655/default/v1/453614556-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Deputy Sheriff Shoots 'Intruder' Daughter</title>
+      <link>http://news.sky.com/story/1319472</link>
+      <description>The officer is said to have opened fire after the alarm went off at 3.30am and he spotted a shadowy figure in the garage.</description>
+      <pubDate>Fri, 15 Aug 2014 23:06:10 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319472</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329780/default/v1/rtr3g3m0-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">150814 US Ambulance GENERIC</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329780/default/v1/rtr3g3m0-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329780/default/v1/rtr3g3m0-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Boko Haram Islamists Kidnap Boys From Village</title>
+      <link>http://news.sky.com/story/1319228</link>
+      <description>Nearly 100 boys and men are loaded into trucks as militants burn down houses, kill elders and chant "Allah Akbar", say witnesses.</description>
+      <pubDate>Fri, 15 Aug 2014 14:34:23 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319228</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329683/default/v1/150814-doron-baga-nigeria-map-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A map showing the location of Doron Baga, Nigeria</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329683/default/v1/150814-doron-baga-nigeria-map-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329683/default/v1/150814-doron-baga-nigeria-map-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Chicago Teen Charged In Mum's Suitcase Murder</title>
+      <link>http://news.sky.com/story/1319338</link>
+      <description>An autopsy on the victim's body, stuffed in a suitcase in front of a posh hotel in Bali, suggests she fought before dying.</description>
+      <pubDate>Fri, 15 Aug 2014 20:19:14 +0100</pubDate>
+      <guid>http://news.sky.com/story/1319338</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/15/329757/default/v1/compo-bali-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Heather Mack and Tommy Schaefer Pic: Instagram</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/15/329757/default/v1/compo-bali-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/15/329757/default/v1/compo-bali-1-70x50.jpg"/>
+    </item>
+  </channel>
+</rss>

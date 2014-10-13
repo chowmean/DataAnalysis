@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Aug 2014 22:59:29 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Iraq: Kurdish Forces Fight To Retake Mosul Dam</title>
+      <link>http://news.sky.com/story/1320004</link>
+      <description>Peshmerga fighters say they have seized the east of the dam as Yazidis begin training to avenge the "massacre" of their families.</description>
+      <pubDate>Sun, 17 Aug 2014 18:31:15 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320004</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/330011/default/v2/453689322-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">IRAQ-UNREST</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/330011/default/v2/453689322-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/330011/default/v2/453689322-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Russian Missile Launchers 'Cross Into Ukraine'</title>
+      <link>http://news.sky.com/story/1320098</link>
+      <description>A Ukrainian jet is shot down amid heavy fighting between government forces and pro-Moscow separatists in Luhansk.</description>
+      <pubDate>Sun, 17 Aug 2014 18:03:28 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320098</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329966/default/v1/checkpoint-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A Ukrainian soldier looks through binoculars at a checkpoint near Debaltseve, in the Donetsk region</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329966/default/v1/checkpoint-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329966/default/v1/checkpoint-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ebola Spread Feared As Sufferers Flee Mob</title>
+      <link>http://news.sky.com/story/1320190</link>
+      <description>Seventeen ebola sufferers flee a clinic raided by looters who steal blood-stained sheets - sparking fears the virus will spread.</description>
+      <pubDate>Sun, 17 Aug 2014 17:33:36 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320190</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329987/default/v1/453699296-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Liberia Battles Spreading Ebola Epidemic</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329987/default/v1/453699296-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329987/default/v1/453699296-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Spain Ebola Alert Over As Man Tests Negative</title>
+      <link>http://news.sky.com/story/1320265</link>
+      <description>A man tests negative for ebola after walking into a hospital in Alicante showing "several symptoms" of the disease.</description>
+      <pubDate>Sun, 17 Aug 2014 17:34:10 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320265</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/330020/default/v2/cegrab-20140817-170127-407-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">The hospital in Alicante</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/330020/default/v2/cegrab-20140817-170127-407-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/330020/default/v2/cegrab-20140817-170127-407-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Britons Aboard Sunken Indonesian Tourist Boat</title>
+      <link>http://news.sky.com/story/1320133</link>
+      <description>British tourists were aboard a boat which sank between islands in Indonesia - with 15 people still missing.</description>
+      <pubDate>Sun, 17 Aug 2014 14:50:49 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320133</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329959/default/v1/lombok-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">This photo taken on May 1, 2011 shows the sun rising over the mountains of Lombok island</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329959/default/v1/lombok-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329959/default/v1/lombok-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Suitcase Murder Suspect 'Assaulted By Police'</title>
+      <link>http://news.sky.com/story/1320083</link>
+      <description>Officers in Bali dismiss Heather's Mack claims she was assaulted while waiting to be questioned over the murder of her mother.</description>
+      <pubDate>Sun, 17 Aug 2014 10:18:38 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320083</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329943/default/v1/rtr42dm7-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">The daughter of an American woman found dead inside a suitcase in Bali gestures while in custody in a police station in Denpasar</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329943/default/v1/rtr42dm7-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329943/default/v1/rtr42dm7-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Missouri Shooting: Tear Gas Fired At Crowd</title>
+      <link>http://news.sky.com/story/1320034</link>
+      <description>A man is critically injured after being hit by a bullet fired in the crowd as scores of people defy a curfew in Ferguson.</description>
+      <pubDate>Sun, 17 Aug 2014 16:22:39 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320034</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329948/default/v2/453722354-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Missouri curfew protest</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329948/default/v2/453722354-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329948/default/v2/453722354-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Federal Autopsy Ordered On Black Teen's Body</title>
+      <link>http://news.sky.com/story/1320276</link>
+      <description>A curfew will continue for a second night in the St Louis suburb, says state highway patrol, after another night of violence.</description>
+      <pubDate>Sun, 17 Aug 2014 20:21:31 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320276</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329950/default/v2/453722660-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Missouri curfew protest</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329950/default/v2/453722660-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329950/default/v2/453722660-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>'Too Much Anger' As Ferguson Ignites Again</title>
+      <link>http://news.sky.com/story/1320143</link>
+      <description>SWAT teams are on the streets as anger over the police response to the killing of an unarmed teen mounts, Sky's Greg Milam writes.</description>
+      <pubDate>Sun, 17 Aug 2014 19:32:06 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320143</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329955/default/v2/453722696-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Missouri curfew protest</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329955/default/v2/453722696-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329955/default/v2/453722696-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Prisoners Film Tunnel Jail Break On Phone</title>
+      <link>http://news.sky.com/story/1320014</link>
+      <description>Police say the guard on duty had not bothered to inspect the cell for about two months before the inmates' brazen escape.</description>
+      <pubDate>Sun, 17 Aug 2014 06:03:17 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320014</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/17/329937/default/v1/brazil-jail-break-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Escaped prisoners</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/17/329937/default/v1/brazil-jail-break-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/17/329937/default/v1/brazil-jail-break-1-70x50.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 21 Aug 2014 12:21:27 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Gaza Airstrike Kills Senior Hamas Commanders</title>
+      <link>http://news.sky.com/story/1322267</link>
+      <description>Dozens of people may be trapped in the rubble of a building destroyed as the Hamas figures were killed, Palestinian officials say.</description>
+      <pubDate>Thu, 21 Aug 2014 08:47:21 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322267</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/21/330685/default/v1/rafah-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Palestinian emergency personnel dig through the rubble of a building destroyed following an Israeli military strike in Rafah</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/21/330685/default/v1/rafah-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/21/330685/default/v1/rafah-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>US Doctor Infected With Ebola Leaving Hospital</title>
+      <link>http://news.sky.com/story/1322435</link>
+      <description>Dr Kent Brantly is leaving an Atlanta hospital after recovering from the disease which he caught while treating people in Liberia.</description>
+      <pubDate>Thu, 21 Aug 2014 11:41:57 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322435</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/4/327310/default/v3/1432lr-p-005-dr.-brantly-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Kent Brantly Pic: Samaritan's Purse</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/4/327310/default/v3/1432lr-p-005-dr.-brantly-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/4/327310/default/v3/1432lr-p-005-dr.-brantly-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Clashes As Liberia Slum Sealed Off To Curb Ebola</title>
+      <link>http://news.sky.com/story/1322162</link>
+      <description>Security forces reportedly fire live rounds at residents protesting at being barricaded into their neighbourhood by barbed wire.</description>
+      <pubDate>Thu, 21 Aug 2014 03:57:22 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322162</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/20/330651/default/v1/police-officer-clashes-with-protester-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A Liberian Army soldier, part of the Ebola Task Force, clashes with a local resident while enforcing a quarantine on the West Point slum</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/20/330651/default/v1/police-officer-clashes-with-protester-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/20/330651/default/v1/police-officer-clashes-with-protester-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Video Shows Yazidis 'Converting To Islam'</title>
+      <link>http://news.sky.com/story/1322397</link>
+      <description>A propaganda video shows lines of men and boys being directed by militants under the black Islamic State flag.</description>
+      <pubDate>Thu, 21 Aug 2014 11:26:11 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322397</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/21/330701/default/v2/cegrab-20140821-101812-0-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Video released by IS claiming to show Yazidis converting to Islam</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/21/330701/default/v2/cegrab-20140821-101812-0-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/21/330701/default/v2/cegrab-20140821-101812-0-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Foley: Secret US Raid Failed To Free Journalist</title>
+      <link>http://news.sky.com/story/1322190</link>
+      <description>Delta Force commandos were dropped by air into Syria and fought with militants, but the hostages had already been moved.</description>
+      <pubDate>Thu, 21 Aug 2014 11:24:28 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322190</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/20/330673/default/v2/foley-close-grab-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">James Foley</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/20/330673/default/v2/foley-close-grab-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/20/330673/default/v2/foley-close-grab-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Foley Family Sent Email Threat By IS Kidnappers</title>
+      <link>http://news.sky.com/story/1322330</link>
+      <description>The beheaded journalist's employers pleaded for mercy from militants after a "vitriolic" email threatening his murder.</description>
+      <pubDate>Thu, 21 Aug 2014 09:26:58 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322330</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/20/330466/default/v2/167963733-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">John and Diane Foley, parents of James Foley</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/20/330466/default/v2/167963733-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/20/330466/default/v2/167963733-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>'McDonald's Cult Murder': Five In Court</title>
+      <link>http://news.sky.com/story/1322282</link>
+      <description>The suspects allegedly killed the woman after unsuccessfully trying to recruit her to their "All-powerful Spirit" cult.</description>
+      <pubDate>Thu, 21 Aug 2014 08:11:43 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322282</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/21/330679/default/v1/cegrab-20140821-071336-407-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">The McDonalds outlet in China</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/21/330679/default/v1/cegrab-20140821-071336-407-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/21/330679/default/v1/cegrab-20140821-071336-407-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Iceland Volcano: Mini-Quakes Revealed In Video</title>
+      <link>http://news.sky.com/story/1322440</link>
+      <description>As hundreds are evacuated from beneath a volcano, experts reveal the extent of tremors threatening to cause an eruption.</description>
+      <pubDate>Thu, 21 Aug 2014 11:36:53 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322440</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/19/330422/default/v1/file-pix-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Iceland's Bardarbunga volcano</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/19/330422/default/v1/file-pix-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/19/330422/default/v1/file-pix-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Russia Denies Sanctions Revenge On McDonald's</title>
+      <link>http://news.sky.com/story/1322407</link>
+      <description>The country expands its checks on the burger chain's Russian restaurants but says the scrutiny is not politically motivated.</description>
+      <pubDate>Thu, 21 Aug 2014 10:27:09 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322407</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/20/330640/default/v1/rtr403g4-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A logo of McDonald's Corp's is on display outside a restaurant on the outskirts of Moscow</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/20/330640/default/v1/rtr403g4-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/20/330640/default/v1/rtr403g4-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Apple Ordered To Pull Secret App From Store</title>
+      <link>http://news.sky.com/story/1322340</link>
+      <description>The company faces a daily fine of more than £5,000 if it does not remove the gossip-sharing app from its Brazil digital store.</description>
+      <pubDate>Thu, 21 Aug 2014 09:16:39 +0100</pubDate>
+      <guid>http://news.sky.com/story/1322340</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/4/30/305952/default/v2/onpaste.20140430-113356-1-70x50.png" length="0" type="image/jpeg"/>
+      <media:description type="html">Secret</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/4/30/305952/default/v2/onpaste.20140430-113356-1-70x50.png" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/4/30/305952/default/v2/onpaste.20140430-113356-1-70x50.png"/>
+    </item>
+  </channel>
+</rss>

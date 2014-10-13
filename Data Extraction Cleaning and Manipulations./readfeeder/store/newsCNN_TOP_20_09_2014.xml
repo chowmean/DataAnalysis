@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator=IBNLive XML FEED Generator -->
+<rss version="2.0"
+		xmlns:ag='http://purl.org/rss/1.0/modules/aggregation/'  
+		xmlns:annotate='http://purl.org/rss/1.0/modules/annotate/' 
+		xmlns:app='http://www.w3.org/2007/app'
+		xmlns:atom='http://www.w3.org/2005/Atom'
+		xmlns:company='http://purl.org/rss/1.0/modules/company'
+  xmlns:content='http://purl.org/rss/1.0/modules/content/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:email='http://purl.org/rss/1.0/modules/email/'
+  xmlns:ev='http://purl.org/rss/1.0/modules/event/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ref='http://purl.org/rss/1.0/modules/reference/'
+  xmlns:taxo='http://purl.org/rss/1.0/modules/taxonomy/'
+  xmlns:atom10='http://www.w3.org/2005/Atom'>
+    <channel>
+        <title>IBN Top Headlines</title>
+        <description>Latest News from IBNLive.com</description>
+        <link>http://ibnlive.in.com/index.html</link>
+        <lastBuildDate>Sat, 20 Sep 2014 0:13:02 +0530</lastBuildDate>
+        <copyright>IBNLive.com</copyright>
+        <generator>IBNLive.com</generator>
+       <language>en-us</language>
+        <image>
+            <url>http://static.ibnlive.in.com/ibnlive/pix/ibnhome/ibnlive-rsslogo.jpg</url>
+            <title>ibnlive logo</title>
+            <link>http://ibnlive.in.com/</link>
+            <description>Feed provided by IBNLive.</description>
+        </image>
+        <item>
+            <title>Modi smart, tough and driven, I underestimated him, says the man who interviewed the Indian PM</title>
+            <link>http://ibnlive.in.com/news/modi-smart-tough-and-driven-i-underestimated-him-says-the-man-who-interviewed-the-indian-pm/500327-37-64.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/moidintrw_shw_1pm.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Fareed Zakaria, the man who interviewed Indian Prime Minister Narendra Modi in a CNN world exclusive, has described the 64-year-old as being 'among the sharpest' he has met.</description>
+            <pubDate>Fri, 19 Sep 2014 21:12:15 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/modi-smart-tough-and-driven-i-underestimated-him-says-the-man-who-interviewed-the-indian-pm/500327-37-64.html</guid>
+        </item>
+        <item>
+            <title>Modi World Exclusive: Indian Muslims will live for India, die for India, says PM</title>
+            <link>http://ibnlive.in.com/news/modi-world-exclusive-indian-muslims-will-live-for-india-die-for-india-says-pm/500171-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/modicnn_intw.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;&quot;Indian Muslims will live for India and die for India. Al Qaeda delusional to think Indian Muslims will dance to its tunes,&quot; Modi told CNN.</description>
+            <pubDate>Fri, 19 Sep 2014 08:16:26 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/modi-world-exclusive-indian-muslims-will-live-for-india-die-for-india-says-pm/500171-3.html</guid>
+        </item>
+        <item>
+            <title>Maharashtra polls: Thaw in BJP-Shiv Sena standoff after backroom meeting?</title>
+            <link>http://ibnlive.in.com/news/maharashtra-polls-thaw-in-bjpshiv-sena-standoff-after-backroom-meeting/500353-37-64.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/02_2014/ncp-a-sinking-ship-says-uddhav-thackeray_240214122752.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Post-meeting, both the BJP and the Shiv Sena sounded optimistic saying that they did not want the alliance to end.</description>
+            <pubDate>Fri, 19 Sep 2014 23:05:12 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/maharashtra-polls-thaw-in-bjpshiv-sena-standoff-after-backroom-meeting/500353-37-64.html</guid>
+        </item>
+        <item>
+            <title>Love jihad: Sri Ram Sene threatens to besiege Rajnath's house over controversial remark</title>
+            <link>http://ibnlive.in.com/news/love-jihad-sri-ram-sene-threatens-to-besiege-rajnaths-house-over-controversial-remark/500308-37-64.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/08_2014/rajnath-singh-launches-pradhan-mantri-jan-dhan-yojana-in-lucknow_280814063513.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Rajnath Singh had on September 12 pleaded ignorance on the issue, saying, 'Arey yeh hai kya? Hume nahi maloom'.</description>
+            <pubDate>Fri, 19 Sep 2014 18:52:31 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/love-jihad-sri-ram-sene-threatens-to-besiege-rajnaths-house-over-controversial-remark/500308-37-64.html</guid>
+        </item>
+        <item>
+            <title>CBI to probe Chidambaram over FIPB approval in Aircel-Maxis deal</title>
+            <link>http://ibnlive.in.com/news/cbi-to-probe-chidambaram-over-fipb-approval-in-aircelmaxis-deal/500358-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/03_2014/defence-ministry-not-spending-funds-wisely-enough-says-chidambaram_060314062834.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Clearing his stand, Chidambaram on Friday said that there was no violation of rules in the grant of FIPB approval.</description>
+            <pubDate>Fri, 19 Sep 2014 23:40:49 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cbi-to-probe-chidambaram-over-fipb-approval-in-aircelmaxis-deal/500358-3.html</guid>
+        </item>
+        <item>
+            <title>UP: Dalit youth beaten up, forced to eat excreta allegedly over land dispute</title>
+            <link>http://ibnlive.in.com/news/up-dalit-youth-beaten-up-forced-to-eat-excreta-allegedly-over-land-dispute/500333-3-242.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/01_2014/jhansi_map_4.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The police have registered an FIR. The victim is presently admitted to a local hospital.</description>
+            <pubDate>Fri, 19 Sep 2014 21:42:01 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/up-dalit-youth-beaten-up-forced-to-eat-excreta-allegedly-over-land-dispute/500333-3-242.html</guid>
+        </item>
+        <item>
+            <title>Denied home-cooked biryani, angry MS Dhoni checks CSK out of hotel: report</title>
+            <link>http://ibnlive.in.com/news/cricketnext/denied-homecooked-biryani-angry-ms-dhoni-checks-csk-out-of-hotel-report/500266-78.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/dhonicsk_afp190914.jpg&quot; alt=&quot;CSK captain MS Dhoni checked out of a five-star hotel along with his team after being denied the permission to have home-cooked Hyderabadi biryani.&quot; title=&quot;CSK captain MS Dhoni checked out of a five-star hotel along with his team after being denied the permission to have home-cooked Hyderabadi biryani.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;CSK captain MS Dhoni checked out of a five-star hotel along with his team after being denied the permission to have home-cooked Hyderabadi biryani.</description>
+            <pubDate>Fri, 19 Sep 2014 16:12:26 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cricketnext/denied-homecooked-biryani-angry-ms-dhoni-checks-csk-out-of-hotel-report/500266-78.html</guid>
+        </item>
+        <item>
+            <title>Pakistan world's worst in religious freedom: US government commission</title>
+            <link>http://ibnlive.in.com/news/pakistan-worlds-worst-in-religious-freedom-us-government-commission/500338-56.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2010/pakistan-flag-woman.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The commission said that the previous and current governments have failed to provide adequate protection or to arrest perpetrators. </description>
+            <pubDate>Fri, 19 Sep 2014 22:17:13 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/pakistan-worlds-worst-in-religious-freedom-us-government-commission/500338-56.html</guid>
+        </item>
+        <item>
+            <title>Condoms 'too small' for Ugandan men, new worry about AIDS</title>
+            <link>http://ibnlive.in.com/news/condoms-too-small-for-ugandan-men-new-worry-about-aids/500307-17.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2013/90-per-cent-condom-machines-at-public-places-gone-missing-cag-report_070913111029.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Ugandan MPs have been inundated with complaints that many condoms on sale in the east African nation are too small, warning the problem is a blow to the fight against AIDS.</description>
+            <pubDate>Fri, 19 Sep 2014 18:49:32 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/condoms-too-small-for-ugandan-men-new-worry-about-aids/500307-17.html</guid>
+        </item>
+        <item>
+            <title>Selfie addiction may lead to low self-esteem</title>
+            <link>http://ibnlive.in.com/news/selfie-addiction-may-lead-to-low-selfesteem/500259-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/duck-face-selfie-190914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Nearly 60 per cent of youngsters admitted that behind their smile is a low self-esteem.</description>
+            <pubDate>Fri, 19 Sep 2014 15:46:22 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/selfie-addiction-may-lead-to-low-selfesteem/500259-11.html</guid>
+        </item>
+        <item>
+            <title>'Are we not human?': Deepika Padukone posts a strong statement on Facebook on controversy over ...</title>
+            <link>http://ibnlive.in.com/news/are-we-not-human-deepika-padukone-posts-a-strong-statement-on-facebook-on-controversy-over-titillating-headline/500227-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/07_2014/deepikajuly3.jpg&quot; alt=&quot;Deepika Padukone at FHM bash. &quot; title=&quot;Deepika Padukone at FHM bash. &quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Padukone recently slammed a leading publication for using a year-old footage of hers with a titillating headline.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 12:41:34 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/are-we-not-human-deepika-padukone-posts-a-strong-statement-on-facebook-on-controversy-over-titillating-headline/500227-8-66.html</guid>
+        </item>
+        <item>
+            <title>Has Kirron Kher found her calling as the hamming stereotype of the loud, Punjabi mother?</title>
+            <link>http://ibnlive.in.com/news/has-kirron-kher-found-her-calling-as-the-hamming-stereotype-of-the-loud-punjabi-mother/500310-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/kirron8sep19630420.jpg&quot; alt=&quot;Is Kirron Kher only suitable for the role of a loud, Punjabi mother?&quot; title=&quot;Is Kirron Kher only suitable for the role of a loud, Punjabi mother?&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;When was the last time  you  remember seeing Kirron Kher in a  non-Punjabi  role that made an impact? </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 18:55:30 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/has-kirron-kher-found-her-calling-as-the-hamming-stereotype-of-the-loud-punjabi-mother/500310-8-66.html</guid>
+        </item>
+        <item>
+            <title>J&amp;K floods: Kolkata 'rice bucket challenge' for relief</title>
+            <link>http://ibnlive.in.com/news/jk-floods-kolkata-rice-bucket-challenge-for-relief/500313-3-245.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/52yearold-man-killed-for-rs-40-and-some-rice_050914025620.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Collections in the rice bucket challenge, as part of the &quot;Joy of Giving&quot; &quot;Daan Utsav&quot; week that began here Friday, will be donated for relief measures in flood-hit Jammu and Kashmir, an organiser said Friday.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 18:55:44 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/jk-floods-kolkata-rice-bucket-challenge-for-relief/500313-3-245.html</guid>
+        </item>
+        <item>
+            <title>Gangnam, fireworks and a glittering opening ceremony kick off Asian Games 2014 in Incheon</title>
+            <link>http://ibnlive.in.com/news/gangnam-fireworks-and-a-glittering-opening-ceremony-kick-off-asian-games-2014-in-incheon/500306-5-23.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/asian-games4_1909getty_630.jpg&quot; alt=&quot;A glittering opening ceremony marked the 17th Asian Games open, which will run till October 4, offers 439 gold medals in 36 sports.&quot; title=&quot;A glittering opening ceremony marked the 17th Asian Games open, which will run till October 4, offers 439 gold medals in 36 sports.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;A glittering opening ceremony marked the 17th Asian Games open, which will run till October 4, offering 439 gold medals in 36 sports.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 18:40:21 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/gangnam-fireworks-and-a-glittering-opening-ceremony-kick-off-asian-games-2014-in-incheon/500306-5-23.html</guid>
+        </item>
+        <item>
+            <title>CLT20: Williamson ton flattens Cobras as Knights win by 33 runs (D/L)</title>
+            <link>http://ibnlive.in.com/news/cricketnext/clt20-williamson-ton-flattens-cobras-as-knights-win-by-33-runs-dl/500355-78.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/williamson.jpg&quot; alt=&quot;Hashim Amla fell for 20 before rain arrived to stop play with Cape Cobras on 44 for 2 in 7.2 overs chasing Northern Knights' 207.&quot; title=&quot;Hashim Amla fell for 20 before rain arrived to stop play with Cape Cobras on 44 for 2 in 7.2 overs chasing Northern Knights' 207.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Chasing Northern Knights 207, Cape Cobras were 44 for 2 in 7.2 overs when heavy rains forced the match to be called off in Raipur. </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 23:21:31 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cricketnext/clt20-williamson-ton-flattens-cobras-as-knights-win-by-33-runs-dl/500355-78.html</guid>
+        </item>
+        <item>
+            <title>'Khoobsurat' review: For those seeking comfort in the familiar, it's a pretty satisfying watch</title>
+            <link>http://ibnlive.in.com/news/khoobsurat-review-for-those-seeking-comfort-in-the-familiar-its-a-pretty-satisfying-watch/500340-47-84.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/khoobsurattweet.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Disney logo at the start of Khoobsurat is a telling sign of what to expect from the film.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 22:32:48 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/khoobsurat-review-for-those-seeking-comfort-in-the-familiar-its-a-pretty-satisfying-watch/500340-47-84.html</guid>
+        </item>
+        <item>
+            <title>'Daawat-e-Ishq' review: The film is unmistakably bland</title>
+            <link>http://ibnlive.in.com/news/daawateishq-review-the-film-is-unmistakably-bland/500342-47-84.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/daawatmovie.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Director Habib Faisal understands well that rooting one's characters in a world that feels familiar and relatable is half the battle won. </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 22:35:45 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/daawateishq-review-the-film-is-unmistakably-bland/500342-47-84.html</guid>
+        </item>
+        <item>
+            <title>iPhone 6, iPhone 6 Plus review: The new Apple iPhones eliminate screen size as a reason to ...</title>
+            <link>http://ibnlive.in.com/news/iphone-6-iphone-6-plus-review-the-new-apple-iphones-eliminate-screen-size-as-a-reason-to-avoid-iphones/500186-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/iphone-6-iphone-6-plus-190914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Only Apple has the advantage of building both the hardware and the software, so iPhones are easier to use and more dependable.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 09:39:16 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/iphone-6-iphone-6-plus-review-the-new-apple-iphones-eliminate-screen-size-as-a-reason-to-avoid-iphones/500186-11.html</guid>
+        </item>
+        <item>
+            <title>Triumph launches the 1699cc Thunderbird LT in India at Rs 15.75 lakh</title>
+            <link>http://ibnlive.in.com/news/triumph-launches-the-1699cc-thunderbird-lt-in-india-at-rs-1575-lakh/500276-25-167.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/triumph-thunderbird-lt-190914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Thunderbird LT is a tourer friendly version of the existing Thunderbird Storm.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 16:45:28 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/triumph-launches-the-1699cc-thunderbird-lt-in-india-at-rs-1575-lakh/500276-25-167.html</guid>
+        </item>
+        <item>
+            <title>Two Indians among this year's Ig Nobel winners; awarded for research on treating nosebleeds ...</title>
+            <link>http://ibnlive.in.com/news/two-indians-among-this-years-ig-nobel-winners-awarded-for-research-on-treating-nosebleeds-with-pork-and-investigating-whether-it-is-mentally-hazardous-to-own-a-cat/500267-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/ignobel3.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Japanese scientists earned the Ig Nobel Physics Prize for detailing the hazards of stepping on a banana peel.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 16:07:12 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/two-indians-among-this-years-ig-nobel-winners-awarded-for-research-on-treating-nosebleeds-with-pork-and-investigating-whether-it-is-mentally-hazardous-to-own-a-cat/500267-79.html</guid>
+        </item>
+        <item>
+            <title>Doordarshan news anchor sacked for referring to Chinese President Xi Jinping as 'Eleven' Jinping</title>
+            <link>http://ibnlive.in.com/news/doordarshan-news-anchor-sacked-for-referring-to-chinese-president-xi-jinping-as-eleven-jinping/500250-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/jinpingblooperontv.jpg&quot; alt=&quot;Xi Jinping on an official tour of India &quot; title=&quot;Xi Jinping on an official tour of India &quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The official said a shortage of news readers had forced the channel to run some news bulletins with casuals.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 15:24:58 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/doordarshan-news-anchor-sacked-for-referring-to-chinese-president-xi-jinping-as-eleven-jinping/500250-79.html</guid>
+        </item>
+        <item>
+            <title>Apple iPhone 6 Plus teardown reveals Qualcomm, Skyworks chips</title>
+            <link>http://ibnlive.in.com/news/apple-iphone-6-plus-teardown-reveals-qualcomm-skyworks-chips/500199-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/iphone-6-plus-teardown-190914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Gadget repair firm iFixit, which pried one an Apple iPhone 6 Plus open in Melbourne early on Friday.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 11:05:04 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/apple-iphone-6-plus-teardown-reveals-qualcomm-skyworks-chips/500199-11.html</guid>
+        </item>
+        <item>
+            <title>Facebook Messenger app loaded with spyware: Security specialist</title>
+            <link>http://ibnlive.in.com/news/facebook-messenger-app-loaded-with-spyware-security-specialist/500258-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/12_2012/relaince-facebook-messenger.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The new Facebook Messenger app may have spyware that keeps an eye on your chats and other information.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 15:41:54 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/facebook-messenger-app-loaded-with-spyware-security-specialist/500258-11.html</guid>
+        </item>
+        <item>
+            <title>Photos: 26 incredibly creative and wonderfully weird sculptures from all over the world you ...</title>
+            <link>http://ibnlive.in.com/news/photos-26-incredibly-creative-and-wonderfully-weird-sculptures-from-all-over-the-world-you-absolutely-need-to-see-to-believe/500215-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/weirdsculpturenew.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Imagine walking along the road and suddenly seeing a man reach out from inside a manhole and grab someone's leg?</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 12:06:01 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/photos-26-incredibly-creative-and-wonderfully-weird-sculptures-from-all-over-the-world-you-absolutely-need-to-see-to-believe/500215-79.html</guid>
+        </item>
+        <item>
+            <title>Watch: This video captures the struggles, sort of, of the most selfie-addicted (and hash ...</title>
+            <link>http://ibnlive.in.com/news/watch-this-video-captures-the-struggles-sort-of-of-the-most-selfieaddicted-and-hash-tagobsessed-people-in-india/500239-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/selfiegirl630.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Up since 6 AM but need to send a #JustWokeUP selfie to a friend? You need to work on your acting.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 14:06:28 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/watch-this-video-captures-the-struggles-sort-of-of-the-most-selfieaddicted-and-hash-tagobsessed-people-in-india/500239-79.html</guid>
+        </item>
+        <item>
+            <title>Piracy moves to the Internet cloud</title>
+            <link>http://ibnlive.in.com/news/piracy-moves-to-the-internet-cloud/500255-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/cloud-piracy-190914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The most profitable cyberlockers using the direct download model were 4Shared, Mega and Uploaded.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 15:35:35 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/piracy-moves-to-the-internet-cloud/500255-11.html</guid>
+        </item>
+        <item>
+            <title>New Mahindra Scorpio bookings now open on Snapdeal</title>
+            <link>http://ibnlive.in.com/news/new-mahindra-scorpio-bookings-now-open-on-snapdeal/500268-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/scorpio-snapdeal-190914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The new Mahindra Scorpio sports utility vehicle is being launched on September 25.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 16:15:28 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/new-mahindra-scorpio-bookings-now-open-on-snapdeal/500268-11.html</guid>
+        </item>
+        <item>
+            <title>'Khoobsurat' tweet review: The film is a typical Disney fare; light and watchable</title>
+            <link>http://ibnlive.in.com/news/khoobsurat-tweet-review-the-film-is-a-typical-disney-fare-light-and-watchable/500180-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/khoobsurattweet.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;What happens when a boisterous young physiotherapist goes to live among the royalty of Rajasthan? </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 09:42:33 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/khoobsurat-tweet-review-the-film-is-a-typical-disney-fare-light-and-watchable/500180-8-66.html</guid>
+        </item>
+        <item>
+            <title>'Bang Bang' is the easiest film of my career, did not prepare for the role beforehand: Hrithik ...</title>
+            <link>http://ibnlive.in.com/news/bang-bang-is-the-easiest-film-of-my-career-did-not-prepare-for-the-role-beforehand-hrithik-roshan/500228-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/bb4-jul23.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Hrithik Roshan says 'Bang Bang' is the easiest film of his career despite the head-injury he had on the sets.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 12:59:26 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bang-bang-is-the-easiest-film-of-my-career-did-not-prepare-for-the-role-beforehand-hrithik-roshan/500228-8-66.html</guid>
+        </item>
+        <item>
+            <title>Delhi Dynamos hold del Piero's ISL press conference in a parking lot</title>
+            <link>http://ibnlive.in.com/news/delhi-dynamos-hold-alessandro-del-pieros-isl-press-conference-in-a-parking-lot/500323-5-21.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/del-piero_1909getty_630.jpg&quot; alt=&quot;The Juventus star, however, gladly obliged the media and the shutterbugs at the parking lot of the Delhi University Stadium for nearly 15 minutes in heat and humidity.&quot; title=&quot;The Juventus star, however, gladly obliged the media and the shutterbugs at the parking lot of the Delhi University Stadium for nearly 15 minutes in heat and humidity.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Juventus star, however, gladly obliged the media and the shutterbugs at the parking lot of the Delhi University Stadium for nearly 15 minutes in heat and humidity.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Fri, 19 Sep 2014 20:50:06 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/delhi-dynamos-hold-alessandro-del-pieros-isl-press-conference-in-a-parking-lot/500323-5-21.html</guid>
+        </item>
+    </channel>
+</rss>

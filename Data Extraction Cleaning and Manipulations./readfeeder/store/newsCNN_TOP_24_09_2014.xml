@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator=IBNLive XML FEED Generator -->
+<rss version="2.0"
+		xmlns:ag='http://purl.org/rss/1.0/modules/aggregation/'  
+		xmlns:annotate='http://purl.org/rss/1.0/modules/annotate/' 
+		xmlns:app='http://www.w3.org/2007/app'
+		xmlns:atom='http://www.w3.org/2005/Atom'
+		xmlns:company='http://purl.org/rss/1.0/modules/company'
+  xmlns:content='http://purl.org/rss/1.0/modules/content/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:email='http://purl.org/rss/1.0/modules/email/'
+  xmlns:ev='http://purl.org/rss/1.0/modules/event/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ref='http://purl.org/rss/1.0/modules/reference/'
+  xmlns:taxo='http://purl.org/rss/1.0/modules/taxonomy/'
+  xmlns:atom10='http://www.w3.org/2005/Atom'>
+    <channel>
+        <title>IBN Top Headlines</title>
+        <description>Latest News from IBNLive.com</description>
+        <link>http://ibnlive.in.com/index.html</link>
+        <lastBuildDate>Wed, 24 Sep 2014 10:44:38 +0530</lastBuildDate>
+        <copyright>IBNLive.com</copyright>
+        <generator>IBNLive.com</generator>
+       <language>en-us</language>
+        <image>
+            <url>http://static.ibnlive.in.com/ibnlive/pix/ibnhome/ibnlive-rsslogo.jpg</url>
+            <title>ibnlive logo</title>
+            <link>http://ibnlive.in.com/</link>
+            <description>Feed provided by IBNLive.</description>
+        </image>
+        <item>
+            <title>India creates history as ISRO's first Mars orbiter Mangalyaan successfully enters red planet's orbit</title>
+            <link>http://ibnlive.in.com/news/india-creates-history-as-isros-first-mars-orbiter-mangalyaan-successfully-enters-red-planets-orbit/501404-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mars_orbit.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The three other agencies - NASA, European Space Agency and Roscosmos have failed to reach Mars in its first attempt.</description>
+            <pubDate>Wed, 24 Sep 2014 08:05:30 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/india-creates-history-as-isros-first-mars-orbiter-mangalyaan-successfully-enters-red-planets-orbit/501404-11.html</guid>
+        </item>
+        <item>
+            <title>Mangalyaan's entry into Mars orbit: As it happened</title>
+            <link>http://ibnlive.in.com/news/mangalyaans-entry-into-mars-orbit-as-it-happened/501385-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/modi_shot.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Mangalyaan is primarily a technological mission and it has been configured to carry out observation of physical features of Mars and carry out limited study of the Martian atmosphere.</description>
+            <pubDate>Wed, 24 Sep 2014 00:04:00 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/mangalyaans-entry-into-mars-orbit-as-it-happened/501385-3.html</guid>
+        </item>
+        <item>
+            <title>Modi congratulates ISRO scientists for Mangalyaan's success, says MOM has united with Mars</title>
+            <link>http://ibnlive.in.com/news/modi-congratulates-isro-scientists-for-mangalyaans-success-says-mom-has-united-with-mars/501435-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/modi_speech_shot_2.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;With the achievement, ISRO has entered the league of three other agencies which have succesfully launched Mars mission.</description>
+            <pubDate>Wed, 24 Sep 2014 09:53:38 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/modi-congratulates-isro-scientists-for-mangalyaans-success-says-mom-has-united-with-mars/501435-3.html</guid>
+        </item>
+        <item>
+            <title>'Namaste', 'Howdy': ISRO's Mangalyaan, NASA's Curiosity Rover greet each other on Mars</title>
+            <link>http://ibnlive.in.com/news/namaste-howdy-isros-mangalyaan-nasas-curiosity-rover-greet-each-other-on-mars/501426-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mars_orbit.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Twitteratti saw a fun exchange of tweets between NASA's 2012 Mars mission Curiosity, ISRO's Mars Orbiter and NASA's 2014 Mars mission Maven.</description>
+            <pubDate>Wed, 24 Sep 2014 09:28:21 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/namaste-howdy-isros-mangalyaan-nasas-curiosity-rover-greet-each-other-on-mars/501426-3.html</guid>
+        </item>
+        <item>
+            <title>India's Mars orbiter Mangalyaan's journey to red planet</title>
+            <link>http://ibnlive.in.com/news/indias-mars-orbiter-mangalyaans-journey-to-red-planet/501442-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mars_mission_clean_2.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Mangalyaan travelled a distance of 650 crore km for over 300 days to reach its destination.</description>
+            <pubDate>Wed, 24 Sep 2014 10:17:06 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/indias-mars-orbiter-mangalyaans-journey-to-red-planet/501442-11.html</guid>
+        </item>
+        <item>
+            <title>NASA congratulates ISRO for Mangalyaan's successful entry into Mars orbit</title>
+            <link>http://ibnlive.in.com/news/nasa-congratulates-isro-for-mangalyaans-successful-entry-into-mars-orbit/501434-2.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mangalyan_celebration.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;NASA's Maven had also reached the orbit of Mars on Tuesday.</description>
+            <pubDate>Wed, 24 Sep 2014 09:53:03 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/nasa-congratulates-isro-for-mangalyaans-successful-entry-into-mars-orbit/501434-2.html</guid>
+        </item>
+        <item>
+            <title>Mars Orbiter Mission: The 14 ISRO scientists behind Mangalyaan</title>
+            <link>http://ibnlive.in.com/news/mars-orbiter-mission-the-14-isro-scientists-behind-mangalyaan/501257-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mars_reuters.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Mangalyaan is primarily a technological mission and it has been configured to carry out observation of physical features of Mars.</description>
+            <pubDate>Tue, 23 Sep 2014 16:49:55 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/mars-orbiter-mission-the-14-isro-scientists-behind-mangalyaan/501257-3.html</guid>
+        </item>
+        <item>
+            <title>Smaller parties of grand Mahayuti alliance miffed with Shiv Sena, BJP over seat sharing</title>
+            <link>http://ibnlive.in.com/news/smaller-parties-of-grand-mahayuti-alliance-miffed-with-shiv-sena-bjp-over-seat-sharing/501403-3-237.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mahabjpshivsena_fadanvis_1.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Republican Party of India, the Rashtriya Samaj Party and Swabhimani Shetkari Sanghathana have rejected the Bharatiya Janata Party proposal which offered them only seven seats.</description>
+            <pubDate>Wed, 24 Sep 2014 08:08:46 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/smaller-parties-of-grand-mahayuti-alliance-miffed-with-shiv-sena-bjp-over-seat-sharing/501403-3-237.html</guid>
+        </item>
+        <item>
+            <title>Modi US visit: India capable of achieving growth rate of 10%, says Arvind Panagariya</title>
+            <link>http://ibnlive.in.com/news/modi-us-visit-india-capable-of-achieving-growth-rate-of-10-says-arvind-panagariya/501409-37-64.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/panagariya_short_1.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Panagariya said that in order to put the economy back on track, serious steps need to be taken.</description>
+            <pubDate>Wed, 24 Sep 2014 08:39:19 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/modi-us-visit-india-capable-of-achieving-growth-rate-of-10-says-arvind-panagariya/501409-37-64.html</guid>
+        </item>
+        <item>
+            <title>IS opens outdoor cinema for Mosul residents to show brutal crimes</title>
+            <link>http://ibnlive.in.com/news/is-opens-outdoor-cinema-for-mosul-residents-to-show-brutal-crimes/501423-2.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/07_2014/isis_small.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Viewers were horrified to see scenes of various bloody slayings by IS executioners, including beheadings and murders of hostages and prisoners of war.</description>
+            <pubDate>Wed, 24 Sep 2014 09:15:40 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/is-opens-outdoor-cinema-for-mosul-residents-to-show-brutal-crimes/501423-2.html</guid>
+        </item>
+        <item>
+            <title>Ebola could infect more than a million, US warns</title>
+            <link>http://ibnlive.in.com/news/ebola-could-infect-more-than-a-million-us-warns/501424-17.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/08_2014/ebola_measures.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;CDC projections are based on a report published last month before the US government approved sending 3,000 troops to West Africa, where at least 2,802 people have died of the Ebola virus.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 09:22:19 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/ebola-could-infect-more-than-a-million-us-warns/501424-17.html</guid>
+        </item>
+        <item>
+            <title>Social media outrage forces Philippines mall to withdraw T-shirt that made fun of rape</title>
+            <link>http://ibnlive.in.com/news/social-media-outrage-forces-philippines-mall-to-withdraw-tshirt-that-made-fun-of-rape/501212-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/rapephillipinesshirt.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;SM Supermalls said the message on the T-shirt was &quot;unacceptable&quot;. It only found out about it through social media.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 14:22:38 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/social-media-outrage-forces-philippines-mall-to-withdraw-tshirt-that-made-fun-of-rape/501212-79.html</guid>
+        </item>
+        <item>
+            <title>Asian Games 2014: Rower Dushyant claims bronze for India in lightweight single sculls</title>
+            <link>http://ibnlive.in.com/news/asian-games-2014-rower-dushyant-claims-bronze-for-india-in-lightweight-single-sculls/501407-5-23.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/rowing_getty240914.jpg&quot; alt=&quot;A represential image of Rowing.&quot; title=&quot;A represential image of Rowing.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Dushyant completed the 2,000 metre race in 7 minutes and 26.57 seconds to finish 3rd behind gold medal winner Hoi Kwan Lok of Hong Kong and South Korea's Hakbeom Lee, who took silver.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 08:13:26 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/asian-games-2014-rower-dushyant-claims-bronze-for-india-in-lightweight-single-sculls/501407-5-23.html</guid>
+        </item>
+        <item>
+            <title>Asian Games Live, Day 5: Rower Dushyant wins bronze for India</title>
+            <link>http://ibnlive.in.com/news/asian-games-live-day-5-rower-dushyant-wins-bronze-for-india/501389-5-23.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/05_2013/manojkumar-boxing.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The young Indian from Services finished third in the final of Lightweight Men's Singles Sculls on Wednesday.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 05:28:14 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/asian-games-live-day-5-rower-dushyant-wins-bronze-for-india/501389-5-23.html</guid>
+        </item>
+        <item>
+            <title>CLT20: Perth Scorchers face uphill task against Kolkata Knight Riders</title>
+            <link>http://ibnlive.in.com/news/cricketnext/clt20-perth-scorchers-face-uphill-task-against-kolkata-knight-riders/501391-78.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/kkr_bcci240914.jpg&quot; alt=&quot;The reigning IPL champions KKR have been on a roll, beating the formidable Chennai and the Lahore Lions in their first two group league games.&quot; title=&quot;The reigning IPL champions KKR have been on a roll, beating the formidable Chennai and the Lahore Lions in their first two group league games.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The reigning IPL champions KKR have been on a roll, beating the formidable Chennai and the Lahore Lions in their first two group league games.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 06:33:29 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cricketnext/clt20-perth-scorchers-face-uphill-task-against-kolkata-knight-riders/501391-78.html</guid>
+        </item>
+        <item>
+            <title>Indian films high on pervasive stereotyping and sexualisation of women: UN report</title>
+            <link>http://ibnlive.in.com/news/indian-films-high-on-pervasive-stereotyping-and-sexualisation-of-women-un-report/501411-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/sunny-sep24.jpg&quot; alt=&quot;Actress Sunny Leone in a still from the film 'Shootout At Wadala'.&quot; title=&quot;Actress Sunny Leone in a still from the film 'Shootout At Wadala'.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Study reveals deep-seated discrimination of women and under-representation in powerful roles by the international film industry.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 08:38:48 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/indian-films-high-on-pervasive-stereotyping-and-sexualisation-of-women-un-report/501411-8-66.html</guid>
+        </item>
+        <item>
+            <title>Bigg Boss 8, Day 2: Upen Patel refers to Sukirti Kandpal's sobbing session as 'natak', asks her ...</title>
+            <link>http://ibnlive.in.com/news/bigg-boss-8-day-2-upen-patel-refers-to-sukirti-kandpals-sobbing-session-as-natak-asks-her-to-not-exaggerate-the-issue/501402-44-124.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/sukriti1.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;What made Sukriti sob? Do you think actor Upen Patel overreacted? </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 07:55:58 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bigg-boss-8-day-2-upen-patel-refers-to-sukirti-kandpals-sobbing-session-as-natak-asks-her-to-not-exaggerate-the-issue/501402-44-124.html</guid>
+        </item>
+        <item>
+            <title>Manufacturing cost of the $650 iPhone 6 is $200, $750 iPhone 6 Plus costs Apple $216</title>
+            <link>http://ibnlive.in.com/news/manufacturing-cost-of-the-650-iphone-6-is-200-750-iphone-6-plus-costs-apple-216/501392-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/iphone-6-plus-240914.jpg&quot; alt=&quot;In this September 19, 2014 file photo, John Mihalkovic, of Virginia Beach, USA, shows off his newly purchased iPhone 6 Plus outside the Apple store at Lynnhaven Mall in Virginia Beach.&quot; title=&quot;In this September 19, 2014 file photo, John Mihalkovic, of Virginia Beach, USA, shows off his newly purchased iPhone 6 Plus outside the Apple store at Lynnhaven Mall in Virginia Beach.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Apple will make more profit on the iPhone Plus version, according to a report from research firm IHS Technology.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 07:13:37 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/manufacturing-cost-of-the-650-iphone-6-is-200-750-iphone-6-plus-costs-apple-216/501392-11.html</guid>
+        </item>
+        <item>
+            <title>Amazon India launches Release Day Delivery, aims to deliver products to customers on the day of ...</title>
+            <link>http://ibnlive.in.com/news/amazon-india-launches-release-day-delivery-aims-to-deliver-products-to-customers-on-the-day-of-launch/501440-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/amazon-india-240914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;With the launch of RDD, Amazon.in customers can now pre-order and receive some of the most eagerly awaited new products at their doorstep on the day of release.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 10:17:26 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/amazon-india-launches-release-day-delivery-aims-to-deliver-products-to-customers-on-the-day-of-launch/501440-11.html</guid>
+        </item>
+        <item>
+            <title>'Howdy @MarsCuriosity? Keep in touch. I'll be around': ISRO's Mangalyaan posts its movements ...</title>
+            <link>http://ibnlive.in.com/news/howdy-marscuriosity-keep-in-touch-ill-be-around-isros-mangalyaan-posts-its-movements-live-on-twitter-congratulatory-tweets-pour-in-from-across-the-world/501433-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/isromarsmission.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;NASA's Curiosity Rover congratulates Mangalyaan. The Mars Orbiter asks Curiosity to keep in touch!</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 09:38:51 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/howdy-marscuriosity-keep-in-touch-ill-be-around-isros-mangalyaan-posts-its-movements-live-on-twitter-congratulatory-tweets-pour-in-from-across-the-world/501433-79.html</guid>
+        </item>
+        <item>
+            <title>Would you like to have tea in a cemetery and drinks in a space shuttle? 10 of the most unusual ...</title>
+            <link>http://ibnlive.in.com/news/would-you-like-to-have-tea-in-a-cemetery-and-drinks-in-a-space-shuttle-10-of-the-most-unusual-restaurants-and-bars-in-india/501165-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/unusualrestaurantsindia5.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The New Lucky Restaurant in Ahmedabad is built over a real cemetery with real coffins placed between the tables!</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 11:41:30 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/would-you-like-to-have-tea-in-a-cemetery-and-drinks-in-a-space-shuttle-10-of-the-most-unusual-restaurants-and-bars-in-india/501165-79.html</guid>
+        </item>
+        <item>
+            <title>HTC launches the 64-bit octa-core Desire 820, quad-core Desire 820q, dual-SIM Desire 816G in India</title>
+            <link>http://ibnlive.in.com/news/htc-launches-the-64bit-octacore-desire-820-quadcore-desire-820q-dualsim-desire-816g-in-india/501177-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/htc-desire-820-230914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Desire 820 features a 5.5-inch 720p display and an 8 megapixel front-facing camera. </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 12:04:43 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/htc-launches-the-64bit-octacore-desire-820-quadcore-desire-820q-dualsim-desire-816g-in-india/501177-11.html</guid>
+        </item>
+        <item>
+            <title>The first Jolla smartphone with Sailfish OS comes to India at Rs 16,499</title>
+            <link>http://ibnlive.in.com/news/the-first-jolla-smartphone-with-sailfish-os-comes-to-india-at-rs-16499/501205-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/jolla-phone-sailfish230914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;A highlight of Jolla's homonymous phone is 'The Other Half' backpanel that gives the phone and the also its UI a different colour and design.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 14:04:40 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/the-first-jolla-smartphone-with-sailfish-os-comes-to-india-at-rs-16499/501205-11.html</guid>
+        </item>
+        <item>
+            <title>Watch: The process of kissing, sex, talking and giving birth look really fascinating through an ...</title>
+            <link>http://ibnlive.in.com/news/watch-the-process-of-kissing-sex-talking-and-giving-birth-look-really-fascinating-through-an-mri-machine/501254-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/mripix630.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Watch the video for a sample of some impressive MRI images of the human body in action.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 16:32:47 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/watch-the-process-of-kissing-sex-talking-and-giving-birth-look-really-fascinating-through-an-mri-machine/501254-79.html</guid>
+        </item>
+        <item>
+            <title>Watch: 10 types of selfies every girl is guilty of taking at least once: This video reveals the ...</title>
+            <link>http://ibnlive.in.com/news/watch-10-types-of-selfies-every-girl-is-guilty-of-taking-at-least-once-this-video-reveals-the-hilarious-truth-behind-every-selfie-on-facebook/501154-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/everyselfieever1.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Puppy selfie. Check. Driving selfie. Check. Nerd selfie. Check. Oh wait, cupcake selfie!</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 10:07:39 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/watch-10-types-of-selfies-every-girl-is-guilty-of-taking-at-least-once-this-video-reveals-the-hilarious-truth-behind-every-selfie-on-facebook/501154-79.html</guid>
+        </item>
+        <item>
+            <title>Jolla's Sailfish OS review: Saves time once you get used to the gestures</title>
+            <link>http://ibnlive.in.com/news/jollas-sailfish-os-review-saves-time-once-you-get-used-to-the-gestures/501256-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/jolla-sailfish-os-review-230914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;There's only one Sailfish OS phone out so far, the homonymous Jolla, that is now available in India via Snapdeal at Rs 16,499. </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 16:46:59 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/jollas-sailfish-os-review-saves-time-once-you-get-used-to-the-gestures/501256-11.html</guid>
+        </item>
+        <item>
+            <title>Boodigo: Former Google employees launch a porn search engine</title>
+            <link>http://ibnlive.in.com/news/boodigo-former-google-employees-launch-a-porn-search-engine/501261-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/boodigo-230914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Boodigo is organised with a double process of verification; it also guard the user's anonymity.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 16:54:18 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/boodigo-former-google-employees-launch-a-porn-search-engine/501261-11.html</guid>
+        </item>
+        <item>
+            <title>It's a proud moment for all of us: Geethu Mohandas on 'Liar's Dice' being declared as India's ...</title>
+            <link>http://ibnlive.in.com/news/its-a-proud-moment-for-all-of-us-geethu-mohandas-on-liars-dice-being-declared-as-indias-official-entry-to-the-oscars/501288-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/nawaz-sep23.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The film stars talented actors Nawazuddin Siddiqui and Geetanjali Thapa.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Tue, 23 Sep 2014 17:53:43 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/its-a-proud-moment-for-all-of-us-geethu-mohandas-on-liars-dice-being-declared-as-indias-official-entry-to-the-oscars/501288-8-66.html</guid>
+        </item>
+        <item>
+            <title>Actress Emma Watson's plea for equality wins men's support</title>
+            <link>http://ibnlive.in.com/news/actress-emma-watsons-plea-for-equality-wins-mens-support/501405-8-67.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/emma-sep24.jpg&quot; alt=&quot;(File photo) Presenter Emma Watson poses at the 86th Academy Awards in Hollywood, California March 2, 2014.&quot; title=&quot;(File photo) Presenter Emma Watson poses at the 86th Academy Awards in Hollywood, California March 2, 2014.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Watson gave her first major speech as a United Nations Women's Goodwill Ambassador, launching the 'HeForShe' campaign.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 08:02:56 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/actress-emma-watsons-plea-for-equality-wins-mens-support/501405-8-67.html</guid>
+        </item>
+        <item>
+            <title>Cheteshwar Pujara out for handling ball in County match</title>
+            <link>http://ibnlive.in.com/news/cricketnext/cheteshwar-pujara-out-for-handling-ball-in-county-match/501396-78.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/pujara_afp240914.jpg&quot; alt=&quot;Pujara became the first player to be given out handled the ball in England since 1996.&quot; title=&quot;Pujara became the first player to be given out handled the ball in England since 1996.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Pujara became the first player to be given out handled the ball in England since 1996.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Wed, 24 Sep 2014 07:36:34 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cricketnext/cheteshwar-pujara-out-for-handling-ball-in-county-match/501396-78.html</guid>
+        </item>
+    </channel>
+</rss>

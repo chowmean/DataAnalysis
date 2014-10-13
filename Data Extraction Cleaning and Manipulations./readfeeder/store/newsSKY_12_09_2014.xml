@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 12 Sep 2014 11:53:47 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Islamic State May Have 31,500 Fighters, Says CIA</title>
+      <link>http://news.sky.com/story/1334532</link>
+      <description>The militant group has rapidly boosted its forces after military successes in Iraq and Syria, say American intelligence experts.</description>
+      <pubDate>Fri, 12 Sep 2014 08:54:06 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334532</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335315/default/v1/pic-1-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">An armed Shi'ite volunteer from the Mehdi Army clashes with Islamic State militants outside the city of Tikrit</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335315/default/v1/pic-1-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335315/default/v1/pic-1-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Coalition's Plans For IS Fight Look Cowardly</title>
+      <link>http://news.sky.com/story/1334657</link>
+      <description>The US-led coalition's refusal to send ground troops to fight Islamic militants will signal weakness to the proclaimed enemy.</description>
+      <pubDate>Fri, 12 Sep 2014 11:34:42 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334657</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335369/default/v1/pic-3-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">U.S. Secretary of State Kerry pose for family photo with Arab foreign ministers in Jeddah</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335369/default/v1/pic-3-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335369/default/v1/pic-3-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>US Campaign Against IS A Work In Progress</title>
+      <link>http://news.sky.com/story/1334365</link>
+      <description>Washington is stitching together its action plan for taking on the militants of IS, but the strategy is far from finalised.</description>
+      <pubDate>Thu, 11 Sep 2014 22:41:52 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334365</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/11/335267/default/v0/kezzahhs-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Iraqi Shiite militia fighters hold the Islamic State flag as they celebrate after breaking the siege of Amerli by Islamic State militants</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/11/335267/default/v0/kezzahhs-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/11/335267/default/v0/kezzahhs-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Oscar Pistorius Guilty Of Reeva's Manslaughter</title>
+      <link>http://news.sky.com/story/1334596</link>
+      <description>The athlete is held in a court cell pending a bail ruling, after being convicted of culpable homicide for killing his girlfriend.</description>
+      <pubDate>Fri, 12 Sep 2014 11:36:35 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334596</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335365/default/v1/new-comp-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Oscar Pistorius verdict</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335365/default/v1/new-comp-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335365/default/v1/new-comp-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Live Updates: Court Reaction To Guilty Verdict</title>
+      <link>http://news.sky.com/story/1334464</link>
+      <description>Live reaction from Pretoria as Judge Masipa finds the athlete guilty of culpable homicide, South Africa's version of manslaughter.</description>
+      <pubDate>Fri, 12 Sep 2014 10:59:08 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334464</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335354/default/v2/455297798-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Oscar Pistorius verdict</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335354/default/v2/455297798-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335354/default/v2/455297798-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Pistorius: Five Key Moments Of The Trial</title>
+      <link>http://news.sky.com/story/1333464</link>
+      <description>For six months the world has been gripped by the Oscar Pistorius murder trial. Here are five key moments from the court case...</description>
+      <pubDate>Fri, 12 Sep 2014 10:30:46 +0100</pubDate>
+      <guid>http://news.sky.com/story/1333464</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/2/28/292639/default/v2/cegrab-20140228-074159-186-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Oscar Pistorius</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/2/28/292639/default/v2/cegrab-20140228-074159-186-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/2/28/292639/default/v2/cegrab-20140228-074159-186-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Pistorius: Televised Trial Exposed Legal System</title>
+      <link>http://news.sky.com/story/1333974</link>
+      <description>With no jury to sway, who else were the prosecution and defence teams' performances aimed at but the television audience?</description>
+      <pubDate>Fri, 12 Sep 2014 10:39:40 +0100</pubDate>
+      <guid>http://news.sky.com/story/1333974</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335335/default/v2/cegrab-20140912-083639-0-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Oscar Pistorius</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335335/default/v2/cegrab-20140912-083639-0-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335335/default/v2/cegrab-20140912-083639-0-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Pistorius: The Trial Judge Who Rose From Nothing</title>
+      <link>http://news.sky.com/story/1333703</link>
+      <description>Thokozile Masipa has ignored her place at the centre of South African legal history despite the media attention around the trial.</description>
+      <pubDate>Fri, 12 Sep 2014 10:20:34 +0100</pubDate>
+      <guid>http://news.sky.com/story/1333703</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/10/334910/default/v1/rtr3of7s-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Judge Masipa and her assessors inspect a bathroom door during Pistorius' trial at the North Gauteng High Court in Pretoria</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/10/334910/default/v1/rtr3of7s-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/10/334910/default/v1/rtr3of7s-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Australia Raises Terror Threat Level To High</title>
+      <link>http://news.sky.com/story/1334588</link>
+      <description>The country's spy agency says the threat level has been rising partly due to Australians fighting for IS in Syria and Iraq.</description>
+      <pubDate>Fri, 12 Sep 2014 10:49:33 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334588</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335342/default/v1/pic-1-2-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Passenger plane flies over a barbed wire fence as it approaches Sydney airport</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335342/default/v1/pic-1-2-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335342/default/v1/pic-1-2-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Ukraine Crisis: New EU Sanctions Target Russia</title>
+      <link>http://news.sky.com/story/1334492</link>
+      <description>The European Union fires another economic salvo at Russia in a bid to halt its alleged intervention in eastern Ukraine.</description>
+      <pubDate>Fri, 12 Sep 2014 09:06:43 +0100</pubDate>
+      <guid>http://news.sky.com/story/1334492</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/9/12/335331/default/v1/ukraine-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A woman speaks to a Ukrainian serviceman as he stands guard in Volnovakha</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/9/12/335331/default/v1/ukraine-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/9/12/335331/default/v1/ukraine-1-70x50.jpg"/>
+    </item>
+  </channel>
+</rss>

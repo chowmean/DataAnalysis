@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://media.skynews.com/feeds/rss/world.xml" rel="self" type="application/rss+xml"/>
+    <title>World News - Breaking international news and headlines | Sky News</title>
+    <link>http://news.sky.com/world</link>
+    <image>
+      <title>World News - Breaking international news and headlines | Sky News</title>
+      <url>http://media.skynews.com/images/web/logo/skynewshd_rss.png</url>
+      <link>http://news.sky.com/world</link>
+    </image>
+    <description>The latest international news from Sky, featuring top stories from around the world and breaking news, as it happens.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2014, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 18 Aug 2014 23:42:02 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>'No Evidence Of Struggle' On Missouri Teen's Body</title>
+      <link>http://news.sky.com/story/1320849</link>
+      <description>President Obama reiterates his call for calm as Attorney General Eric Holder prepares to meet officials in Ferguson.</description>
+      <pubDate>Mon, 18 Aug 2014 23:41:02 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320849</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330227/default/v1/453779016-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Family, Medical Examiner Discuss Autopsy Results In Brown Ferguson Shooting</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330227/default/v1/453779016-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330227/default/v1/453779016-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Missouri Unrest Goes Deeper Than Teen's Death</title>
+      <link>http://news.sky.com/story/1320909</link>
+      <description>Many in Ferguson worry that when the media spotlight fades, the momentum for change will be lost, writes Sky's Greg Milam.</description>
+      <pubDate>Mon, 18 Aug 2014 21:01:47 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320909</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330078/default/v2/453768464-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Outrage In Missouri Town After Police Shooting Of 18-Yr-Old Man</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330078/default/v2/453768464-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330078/default/v2/453768464-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Israel-Hamas Agree To Extend Truce By 24 Hours</title>
+      <link>http://news.sky.com/story/1320890</link>
+      <description>Palestinian reports suggest progress towards a longer-term agreement to deal with the core issues at the heart of the conflict.</description>
+      <pubDate>Mon, 18 Aug 2014 23:22:18 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320890</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330239/default/v1/israeli-soldiers-resting-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Israeli soldiers rest in a staging area near the border with the northern Gaza Strip</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330239/default/v1/israeli-soldiers-resting-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330239/default/v1/israeli-soldiers-resting-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Israel Blows Up Homes Of Teen Murder Suspects</title>
+      <link>http://news.sky.com/story/1320563</link>
+      <description>Houses belonging to Palestinians accused of killing three Israelis are destroyed, as the end of the Gaza ceasefire nears.</description>
+      <pubDate>Mon, 18 Aug 2014 12:58:01 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320563</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330139/default/v1/smoke-as-home-is-demolished-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Israel destroyed the home of Hussam Quasma before dawn</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330139/default/v1/smoke-as-home-is-demolished-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330139/default/v1/smoke-as-home-is-demolished-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Iraqi Militants Threaten Revenge Attacks On US</title>
+      <link>http://news.sky.com/story/1320961</link>
+      <description>As Kurdish troops wrestle back control of a crucial dam near Mosul, IS militants warn Americans will "drown in blood".</description>
+      <pubDate>Mon, 18 Aug 2014 22:34:41 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320961</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330251/default/v1/453782456-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">A Peshmerga fighter flashes the sign for victory next to the remains of a car, bearing an image of the trademark jihadist flag, which reportedly belonged to Islamic State (IS) militants</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330251/default/v1/453782456-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330251/default/v1/453782456-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Crucial Battle For World's Most Dangerous Dam</title>
+      <link>http://news.sky.com/story/1320817</link>
+      <description>Allowing Iraq's strategically important Mosul Dam to burst, killing as many as 500,000 people, is a risk neither side can take.</description>
+      <pubDate>Mon, 18 Aug 2014 17:35:25 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320817</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330048/default/v1/453741742-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Iraqi Kurdish Peshmerga fighters on the back of a truck as they head to the Mosul dam</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330048/default/v1/453741742-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330048/default/v1/453741742-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Airlines Warned Over Iceland Volcano Eruption</title>
+      <link>http://news.sky.com/story/1320870</link>
+      <description>Intense seismic activity at a volcano in Iceland lead to warnings about the possible affect on Europe's aviation industry.</description>
+      <pubDate>Mon, 18 Aug 2014 20:51:51 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320870</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330234/default/v1/98932382-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Ash billows from the Eyjafjoell volcano</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330234/default/v1/98932382-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330234/default/v1/98932382-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Pro-Russian Rebels Fire On Fleeing Civilians</title>
+      <link>http://news.sky.com/story/1320737</link>
+      <description>Women and children are among those killed after they were fired upon as they fled along the main road from Luhansk.</description>
+      <pubDate>Mon, 18 Aug 2014 16:28:58 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320737</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330207/default/v1/453689116-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">UKRAINE-RUSSIA-CRISIS-MILITARY</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330207/default/v1/453689116-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330207/default/v1/453689116-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>EU Compensates Farmers Over Russia Sanctions</title>
+      <link>http://news.sky.com/story/1320715</link>
+      <description>As EU-Russia sanctions start to bite, certain fruit and vegetable producers will be able to access a £100m harvest season fund.</description>
+      <pubDate>Mon, 18 Aug 2014 15:23:07 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320715</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2012/8/25/189356/default/v1/food-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Fruit and vegetables</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2012/8/25/189356/default/v1/food-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2012/8/25/189356/default/v1/food-1-70x50.jpg"/>
+    </item>
+    <item>
+      <title>Monster Alligator Caught By Family In Alabama</title>
+      <link>http://news.sky.com/story/1320781</link>
+      <description>Weighing the 15ft creature proved a challenge - the first attempt destroyed the winch that measures average catches.</description>
+      <pubDate>Mon, 18 Aug 2014 17:19:29 +0100</pubDate>
+      <guid>http://news.sky.com/story/1320781</guid>
+      <enclosure url="http://media.skynews.com/media/images/generated/2014/8/18/330213/default/v2/-49b6ecfab52be59a-1-70x50.jpg" length="0" type="image/jpeg"/>
+      <media:description type="html">Family catches and kills giant alligator. Pic: Sharon Steinmann/Al.com</media:description>
+      <media:thumbnail url="http://media.skynews.com/media/images/generated/2014/8/18/330213/default/v2/-49b6ecfab52be59a-1-70x50.jpg" width="70" height="50"/>
+      <media:content type="image/jpeg" url="http://media.skynews.com/media/images/generated/2014/8/18/330213/default/v2/-49b6ecfab52be59a-1-70x50.jpg"/>
+    </item>
+  </channel>
+</rss>

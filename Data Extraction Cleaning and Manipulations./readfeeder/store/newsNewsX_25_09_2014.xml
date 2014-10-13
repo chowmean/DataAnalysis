@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="http://www.newsx.com/components/com_obrss/assets/xsl/atom-to-html.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>rss</title>
+		<description><![CDATA[RSS Feed]]></description>
+		<link>http://www.newsx.com/</link>
+		<lastBuildDate>Thu, 25 Sep 2014 11:50:25 -0600</lastBuildDate>
+		<generator>FeedCreator 1.8.3 (obRSS 1.9)</generator>
+		<atom:link href="http://www.newsx.com/component/obrss/rss?format=" rel="self" type="application/rss+xml" />
+		<image>
+			<url>http://www.newsx.com/images/</url>
+			<title>rss</title>
+			<link>http://www.newsx.com/</link>
+			<description>RSS Feed</description>
+		</image>
+	</channel>
+</rss>

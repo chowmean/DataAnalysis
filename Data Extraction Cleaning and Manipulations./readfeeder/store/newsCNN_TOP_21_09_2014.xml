@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator=IBNLive XML FEED Generator -->
+<rss version="2.0"
+		xmlns:ag='http://purl.org/rss/1.0/modules/aggregation/'  
+		xmlns:annotate='http://purl.org/rss/1.0/modules/annotate/' 
+		xmlns:app='http://www.w3.org/2007/app'
+		xmlns:atom='http://www.w3.org/2005/Atom'
+		xmlns:company='http://purl.org/rss/1.0/modules/company'
+  xmlns:content='http://purl.org/rss/1.0/modules/content/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:email='http://purl.org/rss/1.0/modules/email/'
+  xmlns:ev='http://purl.org/rss/1.0/modules/event/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ref='http://purl.org/rss/1.0/modules/reference/'
+  xmlns:taxo='http://purl.org/rss/1.0/modules/taxonomy/'
+  xmlns:atom10='http://www.w3.org/2005/Atom'>
+    <channel>
+        <title>IBN Top Headlines</title>
+        <description>Latest News from IBNLive.com</description>
+        <link>http://ibnlive.in.com/index.html</link>
+        <lastBuildDate>Mon, 22 Sep 2014 1:18:20 +0530</lastBuildDate>
+        <copyright>IBNLive.com</copyright>
+        <generator>IBNLive.com</generator>
+       <language>en-us</language>
+        <image>
+            <url>http://static.ibnlive.in.com/ibnlive/pix/ibnhome/ibnlive-rsslogo.jpg</url>
+            <title>ibnlive logo</title>
+            <link>http://ibnlive.in.com/</link>
+            <description>Feed provided by IBNLive.</description>
+        </image>
+        <item>
+            <title>Democracy is our great legacy, it's in our DNA, says PM Narendra Modi in CNN World Exclusive</title>
+            <link>http://ibnlive.in.com/news/democracy-is-our-great-legacy-its-in-our-dna-says-pm-narendra-modi-in-cnn-world-exclusive/500752-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/modi_zakariainterview_live.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Modi stressed on the girl child's education and also on the need to ensure the safety of the girl child in his first interview after assuming the office of the Prime Minister.</description>
+            <pubDate>Sun, 21 Sep 2014 17:27:51 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/democracy-is-our-great-legacy-its-in-our-dna-says-pm-narendra-modi-in-cnn-world-exclusive/500752-3.html</guid>
+        </item>
+        <item>
+            <title>CNN World Exclusive: Full transcript of Prime Minister Narendra Modi's interview</title>
+            <link>http://ibnlive.in.com/news/cnn-world-exclusive-full-transcript-of-prime-minister-narendra-modis-interview/500760-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/modiinterview_finalshow.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;PM Modi said that the dignity of women is a collective effort and not an issue which should be politicised by leaders. </description>
+            <pubDate>Sun, 21 Sep 2014 17:53:41 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cnn-world-exclusive-full-transcript-of-prime-minister-narendra-modis-interview/500760-3.html</guid>
+        </item>
+        <item>
+            <title>'Hindu' word invented by Muslims: Veerappa Moily</title>
+            <link>http://ibnlive.in.com/news/hindu-word-invented-by-muslims-veerappa-moily/500823-37-64.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/04_2014/moily-planning-to-give-oil-field-to-essar-cheaply-aap-alleges_160414061656.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Reacting to Moily's statement, former PM HD Deve Gowda requested &quot;people like Moily not to raise such issues.&quot; </description>
+            <pubDate>Sun, 21 Sep 2014 21:59:00 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/hindu-word-invented-by-muslims-veerappa-moily/500823-37-64.html</guid>
+        </item>
+        <item>
+            <title>BJP may go alone in Maharashtra polls, ties with Shiv Sena in trouble</title>
+            <link>http://ibnlive.in.com/news/bjp-may-go-alone-in-maharashtra-polls-ties-with-shiv-sena-in-trouble/500838-37-64.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/modi_uddhav.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;As a reminder to Prime Minister Narendra Modi, Uddhav said that it was Sena's Bal Thackeray who backed him after the Godhra riots.</description>
+            <pubDate>Sun, 21 Sep 2014 23:01:20 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bjp-may-go-alone-in-maharashtra-polls-ties-with-shiv-sena-in-trouble/500838-37-64.html</guid>
+        </item>
+        <item>
+            <title>Muslim cleric's remarks on Navratri an attempt to malign Hinduism, says VHP; seeks his arrest</title>
+            <link>http://ibnlive.in.com/news/muslim-clerics-remarks-on-navratri-an-attempt-to-malign-hinduism-says-vhp-seeks-his-arrest/500824-3-238.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/06_2013/ahmedabad.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;VHP has also called for a statewide movement in Gujarat to bar Muslim youths from entering venues for 'garba' to prevent incidents of &quot;eve teasing&quot;.</description>
+            <pubDate>Sun, 21 Sep 2014 21:54:41 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/muslim-clerics-remarks-on-navratri-an-attempt-to-malign-hinduism-says-vhp-seeks-his-arrest/500824-3-238.html</guid>
+        </item>
+        <item>
+            <title>Ashraf Ghani Ahmadzai declared Afghanistan's next President</title>
+            <link>http://ibnlive.in.com/news/ashraf-ghani-ahmadzai-declared-afghanistans-next-president/500771-2.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/afghan_img345.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;A White House statement lauded the two leaders, saying the agreement helps bring closure to Afghanistan's political crisis.</description>
+            <pubDate>Sun, 21 Sep 2014 19:09:25 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/ashraf-ghani-ahmadzai-declared-afghanistans-next-president/500771-2.html</guid>
+        </item>
+        <item>
+            <title>British Raj did more harm than good in Indian subcontinent: Debate in UK Supreme Court</title>
+            <link>http://ibnlive.in.com/news/british-raj-did-more-harm-than-good-in-indian-subcontinent-debate-in-uk-supreme-court/500788-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2011/india_uk.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Indo-British Heritage Trust organised the debate as the inaugural event to mark the 400th anniversary of formal relations between India and Britain back in 1614. </description>
+            <pubDate>Sun, 21 Sep 2014 19:52:12 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/british-raj-did-more-harm-than-good-in-indian-subcontinent-debate-in-uk-supreme-court/500788-3.html</guid>
+        </item>
+        <item>
+            <title>Newton didn't give second law of motion: research</title>
+            <link>http://ibnlive.in.com/news/newton-didnt-give-second-law-of-motion-research/500797-2.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/02_2012/isaac-newton-library.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The paper &quot;Isaac Newton, Leonhard Euler and F=ma&quot; was written by Ajay Sharma, assistant director for education with the Himachal Pradesh government.</description>
+            <pubDate>Sun, 21 Sep 2014 20:22:38 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/newton-didnt-give-second-law-of-motion-research/500797-2.html</guid>
+        </item>
+        <item>
+            <title>Chinese pitch seven tents in Chumar; stand off continues</title>
+            <link>http://ibnlive.in.com/news/chinese-pitch-seven-tents-in-chumar-stand-off-continues/500811-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/04_2013/reuters_new_china_ind.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The Chinese soldiers were demanding that Indian army should withdraw simultaneously from the area but the army had decided to dig in its heels.</description>
+            <pubDate>Sun, 21 Sep 2014 21:01:43 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/chinese-pitch-seven-tents-in-chumar-stand-off-continues/500811-3.html</guid>
+        </item>
+        <item>
+            <title>When will Indian hockey learn to be ruthless? asks Michael Nobbs</title>
+            <link>http://ibnlive.in.com/news/when-will-indian-hockey-learn-to-be-ruthless-asks-michael-nobbs/500755-5-136.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/02_2013/ind-celebrate-hock-ind-630.jpg&quot; alt=&quot;8-0 is very poor against minnows Sri Lanka, and the same problems are still apparent that may prove a heart-breaker at the Asian Games.&quot; title=&quot;8-0 is very poor against minnows Sri Lanka, and the same problems are still apparent that may prove a heart-breaker at the Asian Games.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;8-0 is very poor against minnows Sri Lanka, and the same problems are still apparent that may prove a heart-breaker at the Asian Games.
+</description>
+            <pubDate>Sun, 21 Sep 2014 17:34:32 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/when-will-indian-hockey-learn-to-be-ruthless-asks-michael-nobbs/500755-5-136.html</guid>
+        </item>
+        <item>
+            <title>Four Indian cities in Asian Top 10 destinations list</title>
+            <link>http://ibnlive.in.com/news/four-indian-cities-in-asian-top-10-destinations-list/500854-3.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/01_2014/conservationists-oppose-move-to-open-taj-mahal-on-fridays_240114014358.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The data was compiled by Europe, North and Central America, South America, Oceania, Southeast Asia, Middle East, Asia and Africa. </description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Mon, 22 Sep 2014 00:01:42 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/four-indian-cities-in-asian-top-10-destinations-list/500854-3.html</guid>
+        </item>
+        <item>
+            <title>ISRO geared up for a crucial manoeuvre of Mars Orbiter Mission on Monday</title>
+            <link>http://ibnlive.in.com/news/isro-geared-up-for-a-crucial-manoeuvre-of-mars-orbiter-mission-on-monday/500707-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/01_2014/isro-yet-to-pick-up-rover-built-by-iit-kanpur_140114080144.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;ISRO official said the event is crucial as the engine stored in the orbit for about 300 days without operation will be restarted for testing.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 15:01:06 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/isro-geared-up-for-a-crucial-manoeuvre-of-mars-orbiter-mission-on-monday/500707-11.html</guid>
+        </item>
+        <item>
+            <title>Asian Games 2014: Indian men shoot bronze in 10m air pistol</title>
+            <link>http://ibnlive.in.com/news/asian-games-2014-indian-men-shoot-bronze-in-10m-air-pistol/500628-5-23.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/junggasiangames.jpg&quot; alt=&quot;Photo Credit: Getty Images.&quot; title=&quot;Photo Credit: Getty Images.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Indian men settled for a bronze medal after narrowly missing the silver in the 10m air pistol event at the Ongnyeon shooting range.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 09:01:47 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/asian-games-2014-indian-men-shoot-bronze-in-10m-air-pistol/500628-5-23.html</guid>
+        </item>
+        <item>
+            <title>Asian Games 2014: India win two medals on Day 2</title>
+            <link>http://ibnlive.in.com/news/asian-games-2014-india-win-two-medals-on-day-2/500611-5-23.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/jitugoldasiad.jpg&quot; alt=&quot;Photo Credit: Getty Images.&quot; title=&quot;Photo Credit: Getty Images.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Indian shooters delivered a bronze in the men's 10m air pistol team event, while shuttlers bagged another medal of same hue in the women's team competition.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 07:42:36 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/asian-games-2014-india-win-two-medals-on-day-2/500611-5-23.html</guid>
+        </item>
+        <item>
+            <title>CLT20: Gambhir, spinners extend Kolkata's winning run</title>
+            <link>http://ibnlive.in.com/news/cricketnext/clt20-gambhir-spinners-extend-kolkatas-winning-run/500850-78.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/kkr-bcci2109-630.jpg&quot; alt=&quot;Chasing 152, Gautam Gambhir (60) led from the front to help Kolkata Knight Riders beat Lahore Lions by four wickets in Uppal.&quot; title=&quot;Chasing 152, Gautam Gambhir (60) led from the front to help Kolkata Knight Riders beat Lahore Lions by four wickets in Uppal.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Chasing 152, Gautam Gambhir (60) led from the front to help Kolkata Knight Riders beat Lahore Lions by four wickets in Uppal.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 23:29:18 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cricketnext/clt20-gambhir-spinners-extend-kolkatas-winning-run/500850-78.html</guid>
+        </item>
+        <item>
+            <title>Bigg Boss 8: Salman Khan takes selfies, forms secret societies on the opening night of the show</title>
+            <link>http://ibnlive.in.com/news/bigg-boss-8-salman-khan-takes-selfies-forms-secret-societies-on-the-opening-night-of-the-show/500700-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/salmansep21.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Salman Khan, 48, returns as the host for 'Bigg Boss' season eight, which premiered on September 21 on Colors.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 14:43:33 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bigg-boss-8-salman-khan-takes-selfies-forms-secret-societies-on-the-opening-night-of-the-show/500700-8-66.html</guid>
+        </item>
+        <item>
+            <title>First look: Inside the 'Bigg Boss 8' house</title>
+            <link>http://ibnlive.in.com/news/first-look-inside-the-bigg-boss-8-house/500840-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/window630420.jpg&quot; alt=&quot;This is how the new 'Bigg Boss' house looks like. &quot; title=&quot;This is how the new 'Bigg Boss' house looks like. &quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;What's  more exciting about the house is that there are separate sections for Business and Economy classes.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 23:02:03 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/first-look-inside-the-bigg-boss-8-house/500840-8-66.html</guid>
+        </item>
+        <item>
+            <title>HTC to launch the 64-bit octa-core Desire 820 smartphone in India on September 23</title>
+            <link>http://ibnlive.in.com/news/htc-to-launch-the-64bit-octacore-desire-820-smartphone-in-india-on-september-23/500705-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/htc-desire-820-210914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The HTC Desire 820 is the successor to the Desire 816. It has a 5.5-inch 720p display and an 8 megapixel front-facing camera.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 14:47:50 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/htc-to-launch-the-64bit-octacore-desire-820-smartphone-in-india-on-september-23/500705-11.html</guid>
+        </item>
+        <item>
+            <title>Facebook's Oculus unveils a new, upgraded prototype of its virtual reality headset</title>
+            <link>http://ibnlive.in.com/news/facebooks-oculus-unveils-a-new-upgraded-prototype-of-its-virtual-reality-headset/500644-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/oculus-210914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The new virtual reality headset has higher resolution and built-in audio, but the company says it is not ready to sell it to consumers.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 10:26:31 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/facebooks-oculus-unveils-a-new-upgraded-prototype-of-its-virtual-reality-headset/500644-11.html</guid>
+        </item>
+        <item>
+            <title>Bigg Boss 8 highlights: Salman Khan performs towel dance with Gutthi; Upen Patel carries a ...</title>
+            <link>http://ibnlive.in.com/news/bigg-boss-8-highlights-salman-khan-performs-towel-dance-with-gutthi-upen-patel-carries-a-bikini-to-the-house/500806-44-124.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/salmansep21.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Read on to know about the grand opening ceremony and contestants of the much-awaited 'Bigg Boss 8'.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 20:36:20 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bigg-boss-8-highlights-salman-khan-performs-towel-dance-with-gutthi-upen-patel-carries-a-bikini-to-the-house/500806-44-124.html</guid>
+        </item>
+        <item>
+            <title>Bigg Boss 8: Hilarious Upen Patel jokes you shouldn't miss</title>
+            <link>http://ibnlive.in.com/news/bigg-boss-8-hilarious-upen-patel-jokes-you-shouldnt-miss/500858-44-124.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/upen630.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt; As soon as the actor entered the Bigg Boss house and spoke to Salman Khan in a weird accent, many took to Twitter to take digs at him.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Mon, 22 Sep 2014 00:12:33 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bigg-boss-8-hilarious-upen-patel-jokes-you-shouldnt-miss/500858-44-124.html</guid>
+        </item>
+        <item>
+            <title>Customised Android tablets make way to India at Rs 5,000 onwards</title>
+            <link>http://ibnlive.in.com/news/customised-android-tablets-make-way-to-india-at-rs-5000-onwards/500719-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/pinig-210914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Pinig Tech has categorised its tablets as Executive Tab, Kids Tab, Woman Tab, Gaming Tab and Senior Tab for different user groups.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 15:37:12 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/customised-android-tablets-make-way-to-india-at-rs-5000-onwards/500719-11.html</guid>
+        </item>
+        <item>
+            <title>Google emulates Apple, says the new version of Android would also require users' approval to ...</title>
+            <link>http://ibnlive.in.com/news/google-emulates-apple-says-the-new-version-of-android-would-also-require-users-approval-to-access-devices/500661-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/08_2013/google-to-celebrate-independence-day-of-india_140813033033.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The improvement in security prevents the company and the government from accessing information stored in user devices running Android.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 11:59:19 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/google-emulates-apple-says-the-new-version-of-android-would-also-require-users-approval-to-access-devices/500661-11.html</guid>
+        </item>
+        <item>
+            <title>Guinness World Record holder Karan Singh is the world's tallest 5-year-old. ...</title>
+            <link>http://ibnlive.in.com/news/guinness-world-record-holder-karan-singh-is-the-worlds-tallest-5yearold-he-is-5-ft-7-in-tall-and-still-growing/500656-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/worldstallest5yrold2.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Karan Singh holds the Guinness World Record for being the world's tallest and heaviest baby in 2008.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 11:36:39 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/guinness-world-record-holder-karan-singh-is-the-worlds-tallest-5yearold-he-is-5-ft-7-in-tall-and-still-growing/500656-79.html</guid>
+        </item>
+        <item>
+            <title>'Passenger shaming' is a social media trend that is now exposing the world's worst plane travellers!</title>
+            <link>http://ibnlive.in.com/news/passenger-shaming-is-a-social-media-trend-that-is-now-exposing-the-worlds-worst-plane-travellers/500653-79.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/passengershaming.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Have you met annoying passengers on an airplane? The social media is now shaming them in a new trend!</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 11:11:42 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/passenger-shaming-is-a-social-media-trend-that-is-now-exposing-the-worlds-worst-plane-travellers/500653-79.html</guid>
+        </item>
+        <item>
+            <title>Arya Z2 smartphone with a 5-inch display, 8MP camera, Android KitKat launched in India at Rs 6,999</title>
+            <link>http://ibnlive.in.com/news/arya-z2-smartphone-with-a-5inch-display-8mp-camera-android-kitkat-launched-in-india-at-rs-6999/500666-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/arya-smartphone-210914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The dual-SIM Arya Z2 is powered by a 1.3GHz quad-core Mediatek (6582A) processor paired with 1GB of RAM.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 12:28:15 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/arya-z2-smartphone-with-a-5inch-display-8mp-camera-android-kitkat-launched-in-india-at-rs-6999/500666-11.html</guid>
+        </item>
+        <item>
+            <title>A new smartphone app that detects text and reads it aloud for visually impaired people</title>
+            <link>http://ibnlive.in.com/news/a-new-smartphone-app-that-detects-text-and-reads-it-aloud-for-visually-impaired-people/500663-11.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/knfb-reader-app-210914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Blind people say the KNFB Reader app will enable a new level of engagement in everyday life, from reading menus in restaurants to browsing handouts in the classroom.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 12:16:16 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/a-new-smartphone-app-that-detects-text-and-reads-it-aloud-for-visually-impaired-people/500663-11.html</guid>
+        </item>
+        <item>
+            <title>'Bigg Boss 8': 'Halwa Kha Key Jalwa Dikhao' and other quirky one liners you shouldn't miss</title>
+            <link>http://ibnlive.in.com/news/bigg-boss-8-halwa-kha-key-jalwa-dikhao-and-other-quirky-one-liners-you-shouldnt-miss/500857-8-66.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/thithisep22.jpg&quot; alt=&quot;Salman Khan and Gutthi on the 'Bigg Boss 8' stage.&quot; title=&quot;Salman Khan and Gutthi on the 'Bigg Boss 8' stage.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The contestants were also quick while answering to their host and some of them gave  ridiculous answers that had the audience in splits.
+</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 23:58:56 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/bigg-boss-8-halwa-kha-key-jalwa-dikhao-and-other-quirky-one-liners-you-shouldnt-miss/500857-8-66.html</guid>
+        </item>
+        <item>
+            <title>Angelina Jolie to direct 'Africa', a biopic based on paleoanthropologist and conservationist ...</title>
+            <link>http://ibnlive.in.com/news/angelina-jolie-to-direct-africa-a-biopic-based-on-paleoanthropologist-and-conservationist-richard-leakey/500651-8-67.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/jolie-sep21.jpg&quot; alt=&quot;File photo: Actress and campaigner Angelina Jolie arrives at a summit to end sexual violence in conflict, at the Excel centre in London June 13, 2014.&quot; title=&quot;File photo: Actress and campaigner Angelina Jolie arrives at a summit to end sexual violence in conflict, at the Excel centre in London June 13, 2014.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;The film, is from Skydance Productions, the company behind 'Terminator' and 'Mission: Impossible' films.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 11:08:46 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/angelina-jolie-to-direct-africa-a-biopic-based-on-paleoanthropologist-and-conservationist-richard-leakey/500651-8-67.html</guid>
+        </item>
+        <item>
+            <title>CLT20: Blizzard powers Hurricanes easy win over Cobras</title>
+            <link>http://ibnlive.in.com/news/cricketnext/clt20-blizzard-powers-hurricanes-easy-win-over-cobras/500777-78.html</link>
+            <description>&lt;img src=&quot;http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2014/lead-bcci2109.jpg&quot; alt=&quot;Aiden Blizzard's unbeaten 78 and well supported by Jonathan Wells (17*) helped Hobart Hurricanes beat Cape Cobras by six wickets with six balls to spare.&quot; title=&quot;Aiden Blizzard's unbeaten 78 and well supported by Jonathan Wells (17*) helped Hobart Hurricanes beat Cape Cobras by six wickets with six balls to spare.&quot; border=&quot;0&quot; width=&quot;90&quot; height=&quot;62&quot; align=&quot;left&quot; hspace=&quot;5&quot;/&gt;Aiden Blizzard's unbeaten 78 and well supported by Jonathan Wells (17*) helped Hobart Hurricanes beat Cape Cobras by six wickets with six balls to spare.</description>
+            <author>IBNLive.com editor@ibnlive.com</author>
+            <pubDate>Sun, 21 Sep 2014 19:24:11 +0530</pubDate>
+            <guid>http://ibnlive.in.com/news/cricketnext/clt20-blizzard-powers-hurricanes-easy-win-over-cobras/500777-78.html</guid>
+        </item>
+    </channel>
+</rss>
