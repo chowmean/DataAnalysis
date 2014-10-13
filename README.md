@@ -25,9 +25,9 @@ You may have to change just few lines to run these code in your windows. Server 
 3. Run the python programs using in terminal to get the tweets.
 4. Now move to every folder you extaracted and run the test file located in and paste the cleanansanalyze.py in there and run the file in the folder. it will clean and make a 3 new files location.json, results.json and suggestion.json. This is you required data. Put the files along with the folder in the server data_analysis directory and located in server files and you will get the results in webpage on refreshing.
 5. For RSS feeds.RUn the Execute.py file in the readfeeder directory.
-6. then run noun_filter and then timeline.py , it will create a folder named datastore. replace this datastore in folder server/live to get the data displayed in the web page on refreshing.
+6. then run noun_filter and then timeline.py , it will create a folder named datastore. replace this datastore in folder server/live to get the data displayed in the web page on refreshing.<br>
 Running python program in terminal
->> python filename.py
+<br>>> python filename.py
 
 
 _Author:chowmean_ <br>
